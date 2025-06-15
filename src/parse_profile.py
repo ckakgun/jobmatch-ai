@@ -4,7 +4,9 @@ import os
 
 path = 'data/ceren_linkedin_profile.pdf'
 def extract_text_from_pdf(path):
-    'Extract linkedin profile text from a pdf file'
+    '''
+    Extract linkedin profile text from a pdf file
+    '''
     doc = pymupdf.open(path)
     text =''
     for page in range(doc.page_count):
@@ -13,7 +15,9 @@ def extract_text_from_pdf(path):
 
 
 def parse_profile(text):
-    # parse the text to get the profile information
+    '''
+    Parse the text to get the profile information
+    '''
 
     profile = {
         "name": "Ceren Kaya Akgün",  
