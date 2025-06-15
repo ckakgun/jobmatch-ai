@@ -1,0 +1,145 @@
+{
+    "status": "OK",
+    "request_id": "1b0a01a7-94d5-442c-b4db-85b040797aa6",
+    "parameters": {
+        "query": "NLP Data Scientist",
+        "page": 1,
+        "num_pages": 1,
+        "date_posted": "today",
+        "country": "us",
+        "language": "en"
+    },
+    "data": [
+        {
+            "job_id": "HOb4e_WOmGZstm5oAAAAAA==",
+            "job_title": "NLP Data Science Intern(Python",
+            "employer_name": "Northwell Health",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BSMIt7m2uiId_3142LNElhU-kvf9h48rIEOM&s=0",
+            "employer_website": "http://www.gcssc.net/",
+            "job_publisher": "Jobs Trabajo.org",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://us.trabajo.org/job-3624-16722fbebf8c1e63adfeb1f64cb195eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Jobs Trabajo.org",
+                    "apply_link": "https://us.trabajo.org/job-3624-16722fbebf8c1e63adfeb1f64cb195eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Req Number 158365\n\nDepartment Overview:\n\nOur data science team is committed to leveraging advanced data science techniques to make unstructured data more manageable, supporting critical applications and enhancing quality of care through data-driven solutions. This internship requires a commitment of 4 days per week, allowing interns to gain substantial experience while balancing other responsibilities.\n\nJob Description\n\nSupports data analytics and data science teams. Prepares data for analysis helping with data extraction and organization. Assists the conducting of analyses. Performs related clerical functions.\n\nJob Responsibility\n\u2022 Supports data analytics and data science teams.\n\u2022 Prepares data for analysis helping with data extraction and organization.\n\u2022 Assists the conducting of analyses.\n\u2022 Performs related clerical functions.\n\u2022 Operates with direct guidance and work assignments are generally straightforward and of moderate complexity.\n\u2022 Performs related duties as required. All responsibilities noted here are considered essential functions of the job under the Americans with Disabilities Act. Duties not mentioned here, but considered related are not essential functions.\n\nJob Qualification\n\u2022 Bachelor's Degree required, or equivalent combination of education and related experience.\n\u2022 0-1 years of relevant experience, required.\n\nPreferred Skills:\n\u2022 Expertise in Python and SQL for data manipulation and analysis.\n\u2022 Strong background in object-oriented programming.\n\u2022 Practical experience in Natural Language Processing (NLP).\n\u2022 Experience with Deep Learning, Pytorch, Huggingface preferred.\n\u2022 Additional Salary Detail\n\nThe salary range and/or hourly rate listed is a good faith determination of potential base compensation that may be offered to a successful applicant for this position at the time of this job advertisement and may be modified in the future.When determining a team member's base salary and/or rate, several factors may be considered as applicable (e.g., location, specialty, service line, years of relevant experience, education, credentials, negotiated contracts, budget and internal equity).\n\nThe salary range for this position is $55,070-$85,720/year\n\nIt is Northwell Health\u2019s policy to provide equal employment opportunity and treat all applicants and employees equally regardless of their age, race, creed/religion, color, national origin, immigration status or citizenship status, sexual orientation, military or veteran status, sex/gender, gender identity, gender expression, disability, pregnancy, genetic information or genetic predisposition or carrier status, marital or familial status, partnership status, victim of domestic violence, sexual or other reproductive health decisions, or other characteristics protected by applicable law.",
+            "job_is_remote": false,
+            "job_posted_at": "19 hours ago",
+            "job_posted_at_timestamp": 1749909600,
+            "job_posted_at_datetime_utc": "2025-06-14T14:00:00.000Z",
+            "job_location": "New Hyde Park, NY",
+            "job_city": "New Hyde Park",
+            "job_state": "New York",
+            "job_country": "US",
+            "job_latitude": 40.735101799999995,
+            "job_longitude": -73.6879082,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHOb4e_WOmGZstm5oAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Bachelor's Degree required, or equivalent combination of education and related experience",
+                    "0-1 years of relevant experience, required"
+                ],
+                "Benefits": [
+                    "The salary range and/or hourly rate listed is a good faith determination of potential base compensation that may be offered to a successful applicant for this position at the time of this job advertisement and may be modified in the future",
+                    "The salary range for this position is $55,070-$85,720/year"
+                ],
+                "Responsibilities": [
+                    "This internship requires a commitment of 4 days per week, allowing interns to gain substantial experience while balancing other responsibilities",
+                    "Supports data analytics and data science teams",
+                    "Prepares data for analysis helping with data extraction and organization",
+                    "Assists the conducting of analyses",
+                    "Performs related clerical functions",
+                    "Supports data analytics and data science teams",
+                    "Prepares data for analysis helping with data extraction and organization",
+                    "Assists the conducting of analyses",
+                    "Performs related clerical functions",
+                    "Operates with direct guidance and work assignments are generally straightforward and of moderate complexity",
+                    "Performs related duties as required",
+                    "All responsibilities noted here are considered essential functions of the job under the Americans with Disabilities Act"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "MdA3s2ADsSt8slbTAAAAAA==",
+            "job_title": "Senior AI/ML Data Scientist",
+            "employer_name": "PACE Computer Solutions Inc",
+            "employer_logo": null,
+            "employer_website": "http://www.pace-solutionsinc.com/",
+            "job_publisher": "Iitjobs",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.iitjobs.com/job/senior-aiml-data-scientist-woodlawn-md-usa-pace-computer-solutions-inc-83772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Iitjobs",
+                    "apply_link": "https://www.iitjobs.com/job/senior-aiml-data-scientist-woodlawn-md-usa-pace-computer-solutions-inc-83772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/senior-ai-ml-data-scientist-woodlawn-md--49d2ee3f-cd93-4cfc-9c7e-08184744fdae?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "Key Required Skills:Strong knowledge of AI/ML/LLM, Python, NLP, Generative AI and experience with clinical Domain.Position Description:Staying updated on the new methods in NLP, ML and Generative AI.Understanding real world challenges and developing automated data solutionsDeveloping, testing, and deploying new techniques for NLP understandingScalable development/deployment of ML and Generative AI approaches (such as Large Language Models (LLMs)Training and optimizing NLP/LLM models and creating Python based pipeline.Determine the nature of analytic problems, evaluate options, and offer recommendations for resolution.Advise on the methods and data needed and/or available to evaluate the (intelligence or data) problem.Collaborate with data collectors and analysts to identify and close gaps on complex monitoring problems. Provide accurate, timely, complex, and sophisticated data analysis.Skills Requirements:FOUNDATION FOR SUCCESS (Basic Qualifications)Bachelor's degree in Statistics, Applied Mathematics, Computer Science, or Information Science with industry experience on NLP, data science, AI/ML/LLM engineering.Minimum 8 Year (s) of Data Scientist experienceMust be able to obtain and maintain a Public Trust. Contract requirement. HOW TO STAND OUT FROM THE CROWD (Desired Skills)Showcase your knowledge of modern development through the following experience or skills:Prior experience with federal or state governments IT projects.Prior experience working on applications that relates to clinical domain.Experience working in an analytical research environment.Experience with statistical and machine learning software such as pandas and scikit-learn.Experience in parallel processing such as GPU programming with CUDAMathematicaExperience using markup languages such as LaTeX, HTML, etc.Natural Language Processing for anomaly detectionEducation: Bachelor's degree with 12+ years of experienceMust be able to obtain and maintain a Public Trust. Contract requirement.",
+            "job_is_remote": false,
+            "job_posted_at": "20 hours ago",
+            "job_posted_at_timestamp": 1749906000,
+            "job_posted_at_datetime_utc": "2025-06-14T13:00:00.000Z",
+            "job_location": "Baltimore, MD",
+            "job_city": "Baltimore",
+            "job_state": "Maryland",
+            "job_country": "US",
+            "job_latitude": 39.2905023,
+            "job_longitude": -76.6104072,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMdA3s2ADsSt8slbTAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Key Required Skills:Strong knowledge of AI/ML/LLM, Python, NLP, Generative AI and experience with clinical Domain",
+                    "Skills Requirements:FOUNDATION FOR SUCCESS (Basic Qualifications)Bachelor's degree in Statistics, Applied Mathematics, Computer Science, or Information Science with industry experience on NLP, data science, AI/ML/LLM engineering",
+                    "Minimum 8 Year (s) of Data Scientist experience",
+                    "Must be able to obtain and maintain a Public Trust",
+                    "Prior experience working on applications that relates to clinical domain",
+                    "Experience working in an analytical research environment",
+                    "Experience with statistical and machine learning software such as pandas and scikit-learn.Experience in parallel processing such as GPU programming with CUDAMathematicaExperience using markup languages such as LaTeX, HTML, etc",
+                    "Natural Language Processing for anomaly detection",
+                    "Education: Bachelor's degree with 12+ years of experience",
+                    "Must be able to obtain and maintain a Public Trust"
+                ],
+                "Responsibilities": [
+                    "Position Description:Staying updated on the new methods in NLP, ML and Generative AI.Understanding real world challenges and developing automated data solutions",
+                    "Developing, testing, and deploying new techniques for NLP understandingScalable development/deployment of ML and Generative AI approaches (such as Large Language Models (LLMs)Training and optimizing NLP/LLM models and creating Python based pipeline",
+                    "Determine the nature of analytic problems, evaluate options, and offer recommendations for resolution",
+                    "Advise on the methods and data needed and/or available to evaluate the (intelligence or data) problem",
+                    "Collaborate with data collectors and analysts to identify and close gaps on complex monitoring problems",
+                    "Provide accurate, timely, complex, and sophisticated data analysis"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        }
+    ]
+}
