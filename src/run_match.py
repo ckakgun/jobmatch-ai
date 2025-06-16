@@ -12,7 +12,7 @@ if __name__ == "__main__":
         json.dump(profile, f, indent=4)
 
     # 2. Fetch jobs and load from file
-    query_and_save_jobs(query=" nlp data scientist ")
+    query_and_save_jobs(query="berlin nlp data scientist ")
 
     with open("data/job_postings.json") as f:
         job_data = json.load(f)
