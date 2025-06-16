@@ -1,6 +1,6 @@
 import pymupdf # to extract text from a pdf
 import os
-
+import json
 
 path = 'data/ceren_linkedin_profile.pdf'
 def extract_text_from_pdf(path):
@@ -89,4 +89,8 @@ def parse_profile(text):
 
 if __name__ == "__main__":
     text = extract_text_from_pdf(path)
-    print(parse_profile(text))
+    profile = parse_profile(text)
+
+    # Save to JSON
+    with open("data/ceren_linkedin_profile.json", "w") as f:
+        json.dump(profile, f, indent=4)

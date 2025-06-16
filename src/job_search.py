@@ -13,9 +13,12 @@ def query_and_save_jobs(query, output_path="data/job_postings.json"):
         "X-RapidAPI-Host": "jsearch.p.rapidapi.com"
     }
     # Make GET request to JSearch API
+
+    query = 'NLP Data Scientist Junior Machine Learning AI'
     url = 'https://jsearch.p.rapidapi.com/search'
     params = {
         'query': query,
+        'location': 'Berlin, Germany', 
         'page': 1,
         'num_pages': 1,
         'date_posted': 'today',
