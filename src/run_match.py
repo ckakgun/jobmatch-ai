@@ -5,35 +5,39 @@ import json
 
 if __name__ == "__main__":
     # 1. Extract & parse profile
-    text = extract_text_from_pdf("data/ceren_linkedin_profile.pdf")
+    text = extract_text_from_pdf("data/linkedin_profile.pdf")
     profile = parse_profile(text)
     
-    with open("data/ceren_linkedin_profile.json", "w") as f:
+    with open("data/linkedin_profile.json", "w") as f:
         json.dump(profile, f, indent=4)
 
     # 2. Fetch jobs and load from file
-    query_and_save_jobs(query="berlin nlp data scientist ")
+    query_and_save_jobs(query=" nlp data scientist ")
 
     with open("data/job_postings.json") as f:
         job_data = json.load(f)
     job_postings = job_data.get("data", [])
-
 
     filtered_jobs = [
         job for job in job_postings
         if 'berlin' in (job.get('job_city') or '').lower()
         and job.get('job_country', '').lower() in ['de', 'germany']
     ]
-    print(f"📍 {len(filtered_jobs)} jobs in Berlin, Germany after filtering")
+    print(f"📍 {len(filtered_jobs)} jobs after filtering")
 
     if not filtered_jobs:
-        print("No jobs found in Berlin, Germany after filtering.")
+        print("No jobs found.")
         exit()
 
     job_postings = filtered_jobs
 
     # 3. Match
-    top_matches = match_profile_to_jobs(profile, job_postings, top_n=3)
+    job_terms_list = [
+        job.get('job_title', '') + ' ' + job.get('job_description', '')
+        for job in job_postings
+    ]
+
+    top_matches = match_profile_to_jobs(profile, job_postings, job_terms_list, top_n=3)
 
     # 4. Display
     for i, job in enumerate(top_matches, 1):

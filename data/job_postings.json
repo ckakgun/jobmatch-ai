@@ -1,12 +1,886 @@
 {
     "status": "OK",
-    "request_id": "2e8e6655-32e2-4cc5-9ac2-7cba399cf805",
+    "request_id": "63aeb30c-7b4c-4d0b-b2be-99c9d3fe439f",
     "parameters": {
-        "query": "berlin nlp data scientist",
+        "query": "nlp data scientist",
         "page": 1,
         "num_pages": 1,
         "country": "us",
         "language": "en"
     },
-    "data": []
+    "data": [
+        {
+            "job_id": "zUFheNUvDNlVh4FuAAAAAA==",
+            "job_title": "Sr Data Scientist\u2013 NLP, LLM and GenAI",
+            "employer_name": "S&P Global",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHqk_z4V7W-3594nWSNy_iXKhsjsplFYDJz0j&s=0",
+            "employer_website": "http://www.spglobal.com/",
+            "job_publisher": "Indeed",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=0b59b963bb25e0ea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=0b59b963bb25e0ea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "National Black MBA Association (NBMBAA)",
+                    "apply_link": "https://jobs.nbmbaa.org/job/sr-data-scientist-nlp-llm-and-genai-washington-district-of-columbia-972305?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/sr-data-scientist%E2%80%93-nlp-llm-and-genai-at-s-p-global-4235403037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/LAEm9TFv71LhF5GFTUzSCkyHOO97zupTJ2BoV65ORdponnWg9dJA8Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/sr-data-scientist-nlp-llm-and-genai-dc--0393f3b4-dfda-4349-b11f-8f315c972e68?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "JobGet",
+                    "apply_link": "https://www.jobget.com/jobs/job/d1cd6056-fcad-43f8-81de-be00be98eeb1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/sr-data-scientist%E2%80%93-nlp-llm-and-genai-s-and-p-global-JV_IC1138213_KO0,36_KE37,51.htm?jl=1009755378711&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Lensa",
+                    "apply_link": "https://lensa.com/job-v1/sp-global/washington-dc/senior-data-scientist/39e35d9f4a1c7f054c62e4e0d61e6e9f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "About the Role:\nGrade Level (for internal use): 10\nThe Role: Sr Data Scientist\u2013 NLP, LLM and GenAI\n\nS&P is a leader in risk management solutions leveraging automation and AI/ML. This role is a unique opportunity for hands-on ML scientists and NLP/Gen AI/ LLM scientists to grow into the next step in their career journey and apply her or his technical expertise in NLP, deep learning, GenAI, and LLMs to drive business value for multiple stakeholders while conducting cutting-edge applied research around LLMs, Gen AI, and related areas.\n\nResponsibilities:\nML, Gen AI, NLP, LLM Model Development: Design and develop custom ML, Gen AI, NLP, LLM Models for batch and stream processing-based AI ML pipelines. Model components will include data ingestion, preprocessing, search and retrieval, Retrieval Augmented Generation (RAG), NLP/LLM model development, fine-tuning and prompt engineering and ensure the solution meets all technical and business requirements. Work closely with other members of data science, MlOps, technology teams in the design, development, and implementation of the ML model solutions.\nML, NLP, LLM Model Evaluation: Work closely with the other data science team members to develop, validate, and maintain robust evaluation solutions and tools to evaluate model performance, accuracy, consistency, reliability, during development, UAT. Implement model optimizations to improve system efficiency.\nNLP, LLM, Gen AI Model Deployment: Work closely with the MLOps team for the deployment of machine learning models into production environments, ensuring reliability and scalability.\nInternal Collaboration: Collaborate closely with product teams, business stakeholders, Mlops, machine learning engineers, and software engineers to ensure smooth integration of machine learning models into production systems.\nDocumentation: Write and Maintain comprehensive documentation of ML modeling processes and procedures for reference and knowledge sharing.\nDevelop Models Based on Standards and Best Practices: Ensure that the models are designed and developed while adhering to specified standards, governance and best practices in ML model development as specified by senior Data Science and MLOps leads.\nAssist in Problem Solving: Troubleshoot complex issues related to machine learning model development and data pipelines and develop innovative solutions.\n\nWhat We\u2019re Looking For:\nBachelor's / Master\u2019s in Computer Science, Mathematics or Statistics, Computational linguistics, Engineering, or a related field.\n1+ years of professional hands-on experience leveraging large sets of structured and unstructured data to develop data-driven tactical and strategic analytics and insights using ML, NLP, computer vision solutions.\nDemonstrated 1+ years hands-on experience with Python, Hugging Face, TensorFlow, Keras, PyTorch, Spark or similar statistical tools. Expert in python programming.\n1+ years hands-on experience developing natural language processing (NLP) models, ideally with transformer architectures.\n1+ years of experience with implementing information search and retrieval at scale, using a range of solutions ranging from keyword search to semantic search using embeddings.\nKnowledge of developing or tuning Large Language Models (LLM) and Generative AI (GAI)\nKnowledge of NLP, LLMs (extractive and generative), fine-tuning and LLM model development. Familiar with higher level trends in LLMs and open-source platforms\nNice to have: Experience with contributing to Github and open source initiatives or in research projects and/or participation in Kaggle competitions.\n\nAbout S&P Global Ratings\nAt S&P Global Ratings, our analyst-driven credit ratings, research, and sustainable finance opinions provide critical insights that are essential to translating complexity into clarity so market participants can uncover opportunities and make decisions with conviction. By bringing transparency to the market through high-quality independent opinions on creditworthiness, we enable growth across a wide variety of organizations, including businesses, governments, and institutions.\nS&P Global Ratings is a division of S&P Global (NYSE: SPGI). S&P Global is the world\u2019s foremost provider of credit ratings, benchmarks, analytics and workflow solutions in the global capital, commodity and automotive markets. With every one of our offerings, we help many of the world\u2019s leading organizations navigate the economic landscape so they can plan for tomorrow, today.\n\nFor more information, visit www.spglobal.com/ratings\n\nWhat\u2019s In It For You?\n\nOur Purpose:\nProgress is not a self-starter. It requires a catalyst to be set in motion. Information, imagination, people, technology\u2013the right combination can unlock possibility and change the world.\n\nOur world is in transition and getting more complex by the day. We push past expected observations and seek out new levels of understanding so that we can help companies, governments and individuals make an impact on tomorrow. At S&P Global we transform data into Essential Intelligence\u00ae, pinpointing risks and opening possibilities. We Accelerate Progress.\n\nOur People:\nWe're more than 35,000 strong worldwide\u2014so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.\n\nFrom finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We\u2019re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. We\u2019re constantly seeking new solutions that have progress in mind. Join us and help create the critical insights that truly make a difference.\n\nOur Values:\nIntegrity, Discovery, Partnership\n\nAt S&P Global, we focus on Powering Global Markets. Throughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals.\n\nBenefits:\nWe take care of you, so you can take care of business. We care about our people. That\u2019s why we provide everything you\u2014and your career\u2014need to thrive at S&P Global.\n\nOur benefits include:\nHealth & Wellness: Health care coverage designed for the mind and body.\n\nFlexible Downtime: Generous time off helps keep you energized for your time on.\n\nContinuous Learning: Access a wealth of resources to grow your career and learn valuable new skills.\n\nInvest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs.\n\nFamily Friendly Perks: It\u2019s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families.\n\nBeyond the Basics: From retail discounts to referral incentive awards\u2014small perks can make a big difference.\nFor more information on benefits by country visit: https://spgbenefits.com/benefit-summaries\n\nGlobal Hiring and Opportunity at S&P Global:\nAt S&P Global, we are committed to fostering a connected and engaged workplace where all individuals have access to opportunities based on their skills, experience, and contributions. Our hiring practices emphasize fairness, transparency, and merit, ensuring that we attract and retain top talent. By valuing different perspectives and promoting a culture of respect and collaboration, we drive innovation and power global markets.\n\nS&P Global has a Securities Disclosure and Trading Policy (\u201cthe Policy\u201d) that seeks to mitigate conflicts of interest by monitoring and placing restrictions on personal securities holding and trading. The Policy is designed to promote compliance with global regulations. In some Divisions, pursuant to the Policy\u2019s requirements, candidates at S&P Global may be asked to disclose securities holdings. Some roles may include a trading prohibition and remediation of positions when there is an effective or potential conflict of interest. Employment at S&P Global is contingent upon compliance with the Policy.\n\n-----------------------------------------------------------\n\nEqual Opportunity Employer\nS&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.\n\nIf you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.\n\nUS Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law. Pay Transparency Nondiscrimination Provision - https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf\n\n----------------------------------------------------------- 20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority \u2013 Ratings - (Strategic Workforce Planning)\n\nJob ID: 316456\nPosted On: 2025-05-26\nLocation: New York, New York, United States",
+            "job_is_remote": false,
+            "job_posted_at": "21 days ago",
+            "job_posted_at_timestamp": 1748217600,
+            "job_posted_at_datetime_utc": "2025-05-26T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9071923,
+            "job_longitude": -77.0368707,
+            "job_benefits": [
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzUFheNUvDNlVh4FuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Bachelor's / Master\u2019s in Computer Science, Mathematics or Statistics, Computational linguistics, Engineering, or a related field",
+                    "1+ years of professional hands-on experience leveraging large sets of structured and unstructured data to develop data-driven tactical and strategic analytics and insights using ML, NLP, computer vision solutions",
+                    "Demonstrated 1+ years hands-on experience with Python, Hugging Face, TensorFlow, Keras, PyTorch, Spark or similar statistical tools",
+                    "Expert in python programming",
+                    "1+ years hands-on experience developing natural language processing (NLP) models, ideally with transformer architectures",
+                    "1+ years of experience with implementing information search and retrieval at scale, using a range of solutions ranging from keyword search to semantic search using embeddings",
+                    "Knowledge of developing or tuning Large Language Models (LLM) and Generative AI (GAI)",
+                    "Knowledge of NLP, LLMs (extractive and generative), fine-tuning and LLM model development",
+                    "Familiar with higher level trends in LLMs and open-source platforms",
+                    "Nice to have: Experience with contributing to Github and open source initiatives or in research projects and/or participation in Kaggle competitions",
+                    "It requires a catalyst to be set in motion",
+                    "Information, imagination, people, technology\u2013the right combination can unlock possibility and change the world"
+                ],
+                "Benefits": [
+                    "We take care of you, so you can take care of business",
+                    "Health & Wellness: Health care coverage designed for the mind and body",
+                    "Flexible Downtime: Generous time off helps keep you energized for your time on",
+                    "Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills",
+                    "Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs",
+                    "Family Friendly Perks: It\u2019s not just about you",
+                    "S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families",
+                    "Beyond the Basics: From retail discounts to referral incentive awards\u2014small perks can make a big difference",
+                    "For more information on benefits by country visit: https://spgbenefits.com/benefit-summaries",
+                    "---------------------------------------------------------- 20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority \u2013 Ratings - (Strategic Workforce Planning)"
+                ],
+                "Responsibilities": [
+                    "S&P is a leader in risk management solutions leveraging automation and AI/ML",
+                    "ML, Gen AI, NLP, LLM Model Development: Design and develop custom ML, Gen AI, NLP, LLM Models for batch and stream processing-based AI ML pipelines",
+                    "Model components will include data ingestion, preprocessing, search and retrieval, Retrieval Augmented Generation (RAG), NLP/LLM model development, fine-tuning and prompt engineering and ensure the solution meets all technical and business requirements",
+                    "Work closely with other members of data science, MlOps, technology teams in the design, development, and implementation of the ML model solutions",
+                    "ML, NLP, LLM Model Evaluation: Work closely with the other data science team members to develop, validate, and maintain robust evaluation solutions and tools to evaluate model performance, accuracy, consistency, reliability, during development, UAT",
+                    "Implement model optimizations to improve system efficiency",
+                    "NLP, LLM, Gen AI Model Deployment: Work closely with the MLOps team for the deployment of machine learning models into production environments, ensuring reliability and scalability",
+                    "Internal Collaboration: Collaborate closely with product teams, business stakeholders, Mlops, machine learning engineers, and software engineers to ensure smooth integration of machine learning models into production systems",
+                    "Documentation: Write and Maintain comprehensive documentation of ML modeling processes and procedures for reference and knowledge sharing",
+                    "Develop Models Based on Standards and Best Practices: Ensure that the models are designed and developed while adhering to specified standards, governance and best practices in ML model development as specified by senior Data Science and MLOps leads",
+                    "Assist in Problem Solving: Troubleshoot complex issues related to machine learning model development and data pipelines and develop innovative solutions"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "rZTcszWD3qWkLNhYAAAAAA==",
+            "job_title": "NLP Data Scientist",
+            "employer_name": "SteerBridge",
+            "employer_logo": null,
+            "employer_website": "https://www.steerbridge.com",
+            "job_publisher": "Indeed",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=e090a1aad3dfc9e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=e090a1aad3dfc9e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/SteerBridge/Job/NLP-Data-Scientist/-in-Vienna,VA?jid=772e187e40ca1d5b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "SteerBridge Strategies - CATS",
+                    "apply_link": "https://steerbridge.catsone.com/careers/101216-General/jobs/16654353-NLP-Data-Scientist/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/sNdL9Y5uoC1Bp3pB3aC6OwGuDsY2wZS6ulaCgt92LMRbvAheRe5svA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job/nlp-data-scientist-steerbridge-vienna-va_81266477?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/nlp-data-scientist-steerbridge-strategies-JV_IC1130417_KO0,18_KE19,41.htm?jl=1009730014436&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/dbc47976a31a5e6092a4a3013a03a2c2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Recruit.net",
+                    "apply_link": "https://www.recruit.net/job/nlp-data-scientist-jobs/B5701C877BEE3F1D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "WE ARE HIRING FULL-TIME ONSITE DATA SCIENTIST NEAR THE D.C AREA!\n\nPosition: NLP Data Scientist\nJob Type: Full Time\nMode of Work: Onsite\nLocation: SteerBridge Headquarters, Vienna, VA (Tysons Corner)\n\nPOSITION OVERVIEW\nSteerBridge Strategies is seeking an experienced NLP Data Scientist to support high-impact projects focused on extracting actionable insights from unstructured data sources. In this role, you will develop and fine-tune natural language processing models to enhance the accuracy, efficiency, and automation of complex decision-making processes. The ideal candidate will have a strong background in machine learning, data science, and NLP techniques, with the ability to work with large, domain-specific datasets to derive meaningful outcomes.\n\nPROFESSIONAL EXPERIENCE / QUALIFICATIONS\n\u2022 U.S. Citizenship & ability to obtain a Secret Clearance\n\u2022 Bachelor's Degree in Applied Mathematics, Statistics, Computer Science, or a related discipline\u2014or equivalent experience.\n\u2022 Location: Must be local to the Washington, D.C. area and able to work 5-days a week from our company headquarters located at 8521 Leesburg Pike, Vienna, VA 22182 (Non-Local candidates MUST be willing to relocate. Relocation assistance can be provided.)\n\u2022 5-8 years, Python, Amazon Comprehend Medical, Google Cloud NLP, and transformers.\n\u2022 Experience working in cloud environments (AWS, Google Cloud, or Azure).\n\u2022 Familiar with SQL, Jupyter notebooks, and collaborative coding environments.\n\u2022 Ability to communicate complex data science concepts to technical and non-technical audiences.\n\nCOMPENSATION\nStarting from $137,000 annually.\nA salary commensurate with background and experience will be offered.\n\nBENEFITS\n\u2022 Health insurance\n\u2022 Dental insurance\n\u2022 Vision insurance\n\u2022 Life Insurance\n\u2022 401(k) Retirement Plan with matching\n\u2022 Paid Time Off\n\u2022 Paid Federal Holidays\n\nSteerBridge Strategies is committed to equal employment opportunity and nondiscrimination for all employees and qualified applicants without regard to a person\u2019s race, color, gender, age, religion, national origin, ancestry, disability, veteran status, genetic information, sexual orientation, or any characteristic protected under applicable law. SteerBridge Strategies will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Vienna, VA",
+            "job_city": "Vienna",
+            "job_state": "Virginia",
+            "job_country": "US",
+            "job_latitude": 38.901222499999996,
+            "job_longitude": -77.2652604,
+            "job_benefits": [
+                "paid_time_off",
+                "dental_coverage",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrZTcszWD3qWkLNhYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "The ideal candidate will have a strong background in machine learning, data science, and NLP techniques, with the ability to work with large, domain-specific datasets to derive meaningful outcomes",
+                    "U.S. Citizenship & ability to obtain a Secret Clearance",
+                    "Bachelor's Degree in Applied Mathematics, Statistics, Computer Science, or a related discipline\u2014or equivalent experience",
+                    "Location: Must be local to the Washington, D.C. area and able to work 5-days a week from our company headquarters located at 8521 Leesburg Pike, Vienna, VA 22182 (Non-Local candidates MUST be willing to relocate",
+                    "5-8 years, Python, Amazon Comprehend Medical, Google Cloud NLP, and transformers",
+                    "Experience working in cloud environments (AWS, Google Cloud, or Azure)",
+                    "Familiar with SQL, Jupyter notebooks, and collaborative coding environments",
+                    "Ability to communicate complex data science concepts to technical and non-technical audiences"
+                ],
+                "Benefits": [
+                    "Starting from $137,000 annually",
+                    "A salary commensurate with background and experience will be offered",
+                    "Health insurance",
+                    "Dental insurance",
+                    "Vision insurance",
+                    "Life Insurance",
+                    "401(k) Retirement Plan with matching",
+                    "Paid Time Off",
+                    "Paid Federal Holidays"
+                ],
+                "Responsibilities": [
+                    "SteerBridge Strategies is seeking an experienced NLP Data Scientist to support high-impact projects focused on extracting actionable insights from unstructured data sources",
+                    "In this role, you will develop and fine-tune natural language processing models to enhance the accuracy, efficiency, and automation of complex decision-making processes"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "REuBHn93sxcSErzuAAAAAA==",
+            "job_title": "Sr Data Scientist with Fraud Detection & GenAI & NLP - Hybrid on site",
+            "employer_name": "Simple Solutions",
+            "employer_logo": null,
+            "employer_website": "https://www.simple101.com",
+            "job_publisher": "Anthropology Careers & Employment | Jobs",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://careercenter.americananthro.org/job/686476/sr-data-scientist-with-fraud-detection-and-genai-and-nlp-hybrid-on-site/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Anthropology Careers & Employment | Jobs",
+                    "apply_link": "https://careercenter.americananthro.org/job/686476/sr-data-scientist-with-fraud-detection-and-genai-and-nlp-hybrid-on-site/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/Simple-Solutions/Job/Sr-Data-Scientist-with-GenAI-&-NLP-Hybrid-on-site/-in-Washington,DC?jid=a2b6b9872bf2db47&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/sr-data-scientist-with-fraud-detection-genai-nlp-hybrid-on-site-washington-dc--2f308aaa-e19e-4e88-a834-91e0cb285978?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Jooble",
+                    "apply_link": "https://jooble.org/jdp/-4225241417985555552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job/sr-data-scientist-phd-with-genai-nlp-hybrid-on-site-simple-solutions-washington-dc_81327443?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dr. Job",
+                    "apply_link": "https://www.drjobpro.com/job/view/MACIOYFY6X7TAWA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/5235234189?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "WhatJobs",
+                    "apply_link": "https://www.whatjobs.com/gfj/2000145056?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Sr Data Scientist with Fraud Detection & Time Series Analysis - Hybrid on site\n\nMinimum Qualifications:\n\u2022 Work or educational background at minimum of a Master's degree in one or more of the following areas: machine learning, computational linguistics, Fraud Analysis, Time series Analysis, deep learning, ratification intelligence, data science and/or data analytic, generative AI, symbolic AI, causal AI, operations research, computer science, Mathematics, business analytics, or knowledge management.\n\u2022 8-10 years of demonstrated experience programming with R/Python, Linux, and Spark in AWS cloud environment, or knowledge and algorithmic design experience in Python (3+ years)\n\u2022 Proficient with Amazon AWS Sagemaker, Jupyter Notebook and Python Scikit, Deep Learning, Machine Learning tools such as TensorFlow\n\u2022 Experience with image processing models such as Coco, CLIP, ResNet or comparable models\n\u2022 Demonstrated experience with machine learning techniques including natural language processing, and Large language Models (GPTv4-o1, o3, OpenAI APIs, Llama, Claude, etc).\n\u2022 Experience developing AI agents and development proficiency using agentic programming\n\u2022 Proficient in FRAUD DETECTION and Time Series Analysis plus Natural language processing (NLP) and Natural language generation (NLG) including prior projects in any of the following categories: top modeling of text, sentiment analysis of text, part of speech tagging, Name Entity Recognition (NER), Bag of Words, text extraction\n\u2022 Experience building and working with any of these components: Vector DB, BERT, RoBERTa (or comparable tools), Spacy, LLM and GenAI tools. Experience with LoRA, LangChain, RAG, LLM Fine Tuning and PEFT, Knowledge Graphs.\n\u2022 Strong skills in developing GraphRAG, Chain of Thought (CoT), Tree of Thought (ToT), Reinforcement learning and AI development architectures with Human-in-the-Loop (HITL\n\u2022 Demonstrated experience with SQL and any relational database technologies, such as Oracle, PostgreSQL, MySQL, RDS, Redshift, Hadoop EMR, Hive, etc.\n\u2022 Demonstrated experience processing structured and unstructured data sources, data cleansing, data normalization and prep for analysis\n\u2022 Demonstrated experience with code repositories and build/deployment pipelines, specifically Jenkins and/or Git/GitHub/GitLab.\n\u2022 Demonstrated experience using Tableau, or Kibana, Quicksights or other similar data visualizations tools.\n\u2022 Very comfortable working with ambiguity (e.g. imperfect data, loosely defined concepts, ideas, or goals)\n\nLooking for \"hands on\" Data Scientist with Fraud detection and time series analysis\n\u2022 At least a Master's degree in Computer Science or any field related to AI.\n\u2022 Experience working with big data in AWS and using libraries such as PySpark.\n\u2022 Experience in time series forecasting and machine learning models.\n\u2022 Experience working with generative AI.\n\u2022 Experience working with log file analysis and tools such as Splunk.\n\nQualifications & Requirements\n\u2022 Education: MS in Computer Science, Statistics, Math, Engineering, or related field,Master's required.\n\u2022 3+ years of relevant experience in building large scale machine learning or deep learning models and/or systems\n\u2022 1+ year of experience specifically with deep learning (e.g., CNN, RNN, LSTM)\n\u2022 1+ year of experience building NLP and NLG tools.\n\u2022 Experience with wide range of LLMs (Llama, Claude, OpenAI, Cohere, etc.), LoRA, LangChain, RAG, LLM Fine Tuning and PEFT are preferred.\n\u2022 Demonstrated skills with Jupyter Notebook, AWS Sagemaker, or Domino Datalab or comparable environments\n\u2022 Passion for solving complex data problems and generating cross-functional solutions in a fast-paced environment\n\u2022 Knowledge in Python and SQL, object oriented programming, service oriented architectures\n\u2022 Strong scripting skills with Shell script and SQL\n\u2022 Strong coding skills and experience with Python (including SciPy, NumPy, and/or PySpark) and/or Scala.\n\u2022 Knowledge and implementation experience with NLP techniques (topic modeling, bag of words, text classification, TF/IDF, Sentiment analysis) and NLP technologies such as Python NLTK, or Spacy or comparable technologies\n\u2022 Knowledge and implementation experience with statistical and machine learning models (regression, classification, clustering, graph models, etc.)\n\nPreferred Qualifications\n\u2022 Hands on experience building models with deep learning frameworks like Tensorflow, Keras, Caffe, PyTorch, Theano, H2O, or similar\n\u2022 Experience with LLM Agents, Agentic programming\n\u2022 Experience with search architecture (for instance: Solr, ElasticSearch, AWS OpenSearch)\n\u2022 Experience with building querying ontologies such as Zeno, OWL, RDF, SparQL or comparable are preferred\n\u2022 Knowledge & experience with microservices, service mesh, API development and test automation are preferred\n\u2022 Demonstrated experience using Docker, Kubernetes, and/or other similar container frameworks are preferred\n\nAdditional Job Qualifications:\n\u2022 Ability to translate business ideas into analytics models that have major business impact.\n\u2022 Demonstrated experience working with multiple stakeholders.\n\u2022 Demonstrated communication skills, e.g. explaining complex technical issues to more junior data scientists, in graphical, verbal, or written formats.\n\u2022 Demonstrated experience developing tested, reusable and reproducible work.\n\nRequirements\nInterview Process/# of Rounds:\n\nInterview Process/# of Rounds:\n\u2022 Direct manager contact\n\u2022 2 rounds",
+            "job_is_remote": false,
+            "job_posted_at": "8 days ago",
+            "job_posted_at_timestamp": 1749340800,
+            "job_posted_at_datetime_utc": "2025-06-08T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9071923,
+            "job_longitude": -77.0368707,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DREuBHn93sxcSErzuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Work or educational background at minimum of a Master's degree in one or more of the following areas: machine learning, computational linguistics, Fraud Analysis, Time series Analysis, deep learning, ratification intelligence, data science and/or data analytic, generative AI, symbolic AI, causal AI, operations research, computer science, Mathematics, business analytics, or knowledge management",
+                    "8-10 years of demonstrated experience programming with R/Python, Linux, and Spark in AWS cloud environment, or knowledge and algorithmic design experience in Python (3+ years)",
+                    "Proficient with Amazon AWS Sagemaker, Jupyter Notebook and Python Scikit, Deep Learning, Machine Learning tools such as TensorFlow",
+                    "Experience with image processing models such as Coco, CLIP, ResNet or comparable models",
+                    "Demonstrated experience with machine learning techniques including natural language processing, and Large language Models (GPTv4-o1, o3, OpenAI APIs, Llama, Claude, etc)",
+                    "Experience developing AI agents and development proficiency using agentic programming",
+                    "Proficient in FRAUD DETECTION and Time Series Analysis plus Natural language processing (NLP) and Natural language generation (NLG) including prior projects in any of the following categories: top modeling of text, sentiment analysis of text, part of speech tagging, Name Entity Recognition (NER), Bag of Words, text extraction",
+                    "Experience building and working with any of these components: Vector DB, BERT, RoBERTa (or comparable tools), Spacy, LLM and GenAI tools",
+                    "Experience with LoRA, LangChain, RAG, LLM Fine Tuning and PEFT, Knowledge Graphs",
+                    "Strong skills in developing GraphRAG, Chain of Thought (CoT), Tree of Thought (ToT), Reinforcement learning and AI development architectures with Human-in-the-Loop (HITL",
+                    "Demonstrated experience with SQL and any relational database technologies, such as Oracle, PostgreSQL, MySQL, RDS, Redshift, Hadoop EMR, Hive, etc",
+                    "Demonstrated experience processing structured and unstructured data sources, data cleansing, data normalization and prep for analysis",
+                    "Demonstrated experience with code repositories and build/deployment pipelines, specifically Jenkins and/or Git/GitHub/GitLab",
+                    "Demonstrated experience using Tableau, or Kibana, Quicksights or other similar data visualizations tools",
+                    "Very comfortable working with ambiguity (e.g. imperfect data, loosely defined concepts, ideas, or goals)",
+                    "Looking for \"hands on\" Data Scientist with Fraud detection and time series analysis",
+                    "At least a Master's degree in Computer Science or any field related to AI",
+                    "Experience working with big data in AWS and using libraries such as PySpark",
+                    "Experience in time series forecasting and machine learning models",
+                    "Experience working with generative AI",
+                    "Experience working with log file analysis and tools such as Splunk",
+                    "Education: MS in Computer Science, Statistics, Math, Engineering, or related field,Master's required",
+                    "3+ years of relevant experience in building large scale machine learning or deep learning models and/or systems",
+                    "1+ year of experience specifically with deep learning (e.g., CNN, RNN, LSTM)",
+                    "1+ year of experience building NLP and NLG tools",
+                    "Demonstrated skills with Jupyter Notebook, AWS Sagemaker, or Domino Datalab or comparable environments",
+                    "Passion for solving complex data problems and generating cross-functional solutions in a fast-paced environment",
+                    "Knowledge in Python and SQL, object oriented programming, service oriented architectures",
+                    "Strong scripting skills with Shell script and SQL",
+                    "Strong coding skills and experience with Python (including SciPy, NumPy, and/or PySpark) and/or Scala",
+                    "Knowledge and implementation experience with NLP techniques (topic modeling, bag of words, text classification, TF/IDF, Sentiment analysis) and NLP technologies such as Python NLTK, or Spacy or comparable technologies",
+                    "Knowledge and implementation experience with statistical and machine learning models (regression, classification, clustering, graph models, etc.)",
+                    "Ability to translate business ideas into analytics models that have major business impact",
+                    "Demonstrated experience working with multiple stakeholders",
+                    "Demonstrated communication skills, e.g. explaining complex technical issues to more junior data scientists, in graphical, verbal, or written formats",
+                    "Demonstrated experience developing tested, reusable and reproducible work"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "i9tDRKkvic-vBdSPAAAAAA==",
+            "job_title": "Lead NLP Data Scientist",
+            "employer_name": "Humana Inc.",
+            "employer_logo": null,
+            "employer_website": "http://www.humana.com/",
+            "job_publisher": "Employment Crossing",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.employmentcrossing.com/job/id-a478a9868ab68d16fa66e87d190d45c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Employment Crossing",
+                    "apply_link": "https://www.employmentcrossing.com/job/id-a478a9868ab68d16fa66e87d190d45c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "DescriptionHumana is seeking a Lead Data Scientist who has extensive experience with Natural Language Processing (NLP). The ideal candidate will have experience developing NLP models with transformer architecture and preferably have experience with Hugging Face. This is your opportunity to join our Fortune #40, Best Places to Work company and help us make a difference as we help our members achieve their best health!ResponsibilitiesThe Lead NLP Data Scientist uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The Lead NLP Data Scientist works on problems of diverse scope and complexity ranging from moderate to substantial.The Lead Data Scientist:Develops, maintains, and collects structured and unstructured data sets for analysis and reporting.Creates reports, projections, models, and presentations to support business strategy and tactics.Advises executives to develop functional strategies (often segment specific) on matters of significance.Exercises independent judgment and decision making on complex issues regarding job duties and related tasks, and works under minimal supervision.Uses independent judgment requiring analysis of variable factors and determining the best course of action.Required QualificationsMaster's Degree and 4 years of professional experience leveraging large sets of structured and unstructured data to develop tactical and strategic insights2 or more years project leadership experienceExperience developing natural language processing (NLP) models with transformer architectureExperience in using mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutionsSuccessful demonstrated experience in working on problems of diverse scope and complexity ranging from moderate to substantialExperience in developing, maintaining, and collecting structured and unstructured data sets for analysis and reportingExperience in creating reports, projections, models, and presentations to support businessAbility to exercise independent judgment and decision making on complex issues regarding job duties and related tasksAbility to works under minimal supervision, using independent judgmentPreferred QualificationsPhD in NLP or a quantitative discipline, such as Computer Science, Mathematics or Statistics and/or related fieldHealthcare or managed care experienceDemonstrated experience with Python, Hugging Face, TensorFlow, PyTorch, Spark or similar statistical toolsAdditional InformationLocation/Work Style: Remote USWhy Humana?At Humana, we know your well-being is important to you, and it's important to us too. That's why we're committed to making resources available to you that will enable you to become happier, healthier, and more productive in all areas of your life. Just to name a few:Work-Life BalanceGenerous PTO packageHealth benefits effective day 1Annual Incentive Plan401K - Excellent company matchWell-being programPaid Volunteer Time OffStudent Loan RefinancingIf you share our passion for helping people, we likely have the right place for you at Humana.Work at Home GuidanceTo ensure Home or Hybrid Home/Office associates' ability to work effectively, the self-provided internet service of Home or Hybrid Home/Office associates must meet the following criteria:At minimum, a download speed of 25 Mbps and an upload speed of 10 Mbps is recommended to support Humana applications, per associate.Wireless, Wired Cable or DSL connection is suggested.Satellite, cellular and microwave connection can be used only if they provide an optimal connection for associates. The use of these methods must be approved by leadership. (See Wireless, Wired Cable or DSL Connection in Exceptions, Section 7.0 in this policy.)Humana will not pay for or reimburse Home or Hybrid Home/Office associates for any portion of the cost of their self-provided internet service, with the exception of associates who live or work from Home in the state of California, Illinois, Montana, or South Dakota. Associates who live and work from Home in the state of California, Illinois, Montana, or South Dakota will be provided a bi-weekly payment for their internet expense.Humana will provide Home or Hybrid Home/Office associates with telephone equipment appropriate to meet the business requirements for their position/job.#LI-RemoteThis is a remote positionScheduled Weekly Hours40Humana complies with all applicable federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability, sex, sexual orientation, gender identity or religion. We also provide free language interpreter services. See our https://www.humana.com/legal/accessibility-resources?source=Humana_Website.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9071923,
+            "job_longitude": -77.0368707,
+            "job_benefits": [
+                "paid_time_off",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Di9tDRKkvic-vBdSPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "9g6DztoQnNRkUu6PAAAAAA==",
+            "job_title": "Data Scientist - Machine Learning and NLP - FS Poly",
+            "employer_name": "stanleyreid",
+            "employer_logo": null,
+            "employer_website": "https://www.stanleyreid.com",
+            "job_publisher": "Careers | Stanleyreid",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16598046-Data-Scientist-Machine-Learning-and-NLP-FS-Poly?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Careers | Stanleyreid",
+                    "apply_link": "https://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16598046-Data-Scientist-Machine-Learning-and-NLP-FS-Poly?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/8d8ba401c977bbc00c402fdedc405590?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "JobLeads",
+                    "apply_link": "https://www.jobleads.com/us/job/data-scientist-machine-learning-and-nlp-fs-poly-tysons-va--tysons--ee1d293a6f905a5029d0627c32a504c42?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Learn4Good",
+                    "apply_link": "https://www.learn4good.com/jobs/virginia/info_technology/4302880313/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Our client is a small company that solves big problems - impacting National Security by bringing top Software Engineers and Technical Professionals to critical Intel & DoD programs. They understand what people want in an employer: over 20 programs with interesting and important work, exceptional salaries and benefits, both technical and managerial growth tracks, flextime, low bureaucracy, a responsive back office, a friendly atmosphere, and talented co-workers. Their low-overhead model allows you to keep most of the revenue you generate and enjoy strong benefits: 100% paid healthcare (including family), 6 weeks PTO/holidays, 8% 401k, and more.\n\nThey are seeking a Data Scientist to develop algorithms, analyze data sets, and work with machine learning specialists to deploy models into production.\n\nRequired:\n\n-Bachelor's Degree\n\n-5+ years of experience\n\n-Experience Python\n\n-Experience with AI/ML algorithms\n\n-Experience with NLP\n\nDesired:\n\n-Experience with data engineering\n\n-Experience with cloud-based tools for ML algorithms on multiple platforms\n\nThis role is located in Tysons, VA and requires a TS/SCI + FS Poly.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Tysons, VA",
+            "job_city": "Tysons",
+            "job_state": "Virginia",
+            "job_country": "US",
+            "job_latitude": 38.9187222,
+            "job_longitude": -77.2310925,
+            "job_benefits": [
+                "paid_time_off",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9g6DztoQnNRkUu6PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Bachelor's Degree",
+                    "5+ years of experience",
+                    "Experience Python",
+                    "Experience with AI/ML algorithms",
+                    "Experience with NLP"
+                ],
+                "Benefits": [
+                    "Their low-overhead model allows you to keep most of the revenue you generate and enjoy strong benefits: 100% paid healthcare (including family), 6 weeks PTO/holidays, 8% 401k, and more"
+                ],
+                "Responsibilities": [
+                    "They are seeking a Data Scientist to develop algorithms, analyze data sets, and work with machine learning specialists to deploy models into production"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "P8hXpecXDPFDJnpSAAAAAA==",
+            "job_title": "Data Scientist - Machine Learning and NLP - FS Poly",
+            "employer_name": "stanleyreid",
+            "employer_logo": null,
+            "employer_website": "https://www.stanleyreid.com",
+            "job_publisher": "ZipRecruiter",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.ziprecruiter.com/c/stanleyreid/Job/Data-Scientist-Machine-Learning-and-NLP-FS-Poly/-in-Falls-Church,VA?jid=d4ed781ad4c0ab3f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/stanleyreid/Job/Data-Scientist-Machine-Learning-and-NLP-FS-Poly/-in-Falls-Church,VA?jid=d4ed781ad4c0ab3f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "Our client is a small company that solves big problems - impacting National Security by bringing top Software Engineers and Technical Professionals to critical Intel & DoD programs. They understand what people want in an employer: over 20 programs with interesting and important work, exceptional salaries and benefits, both technical and managerial growth tracks, flextime, low bureaucracy, a responsive back office, a friendly atmosphere, and talented co-workers. Their low-overhead model allows you to keep most of the revenue you generate and enjoy strong benefits: 100% paid healthcare (including family), 6 weeks PTO/holidays, 8% 401k, and more.\n\nThey are seeking a Data Scientist to develop algorithms, analyze data sets, and work with machine learning specialists to deploy models into production.\n\nRequired:\n-Bachelor's Degree\n-5+ years of experience\n-Experience Python\n-Experience with AI/ML algorithms\n-Experience with NLP\n\nDesired:\n-Experience with data engineering\n-Experience with cloud-based tools for ML algorithms on multiple platforms\n\nThis role is located in Tysons, VA and requires a TS/SCI + FS Poly.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Falls Church, VA",
+            "job_city": "Falls Church",
+            "job_state": "Virginia",
+            "job_country": "US",
+            "job_latitude": 38.882334,
+            "job_longitude": -77.1710914,
+            "job_benefits": [
+                "health_insurance",
+                "paid_time_off"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DP8hXpecXDPFDJnpSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Bachelor's Degree",
+                    "5+ years of experience",
+                    "Experience Python",
+                    "Experience with AI/ML algorithms",
+                    "Experience with NLP"
+                ],
+                "Benefits": [
+                    "Their low-overhead model allows you to keep most of the revenue you generate and enjoy strong benefits: 100% paid healthcare (including family), 6 weeks PTO/holidays, 8% 401k, and more"
+                ],
+                "Responsibilities": [
+                    "They are seeking a Data Scientist to develop algorithms, analyze data sets, and work with machine learning specialists to deploy models into production"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "l8iXupXiSOa1DRxfAAAAAA==",
+            "job_title": "NLP & LLM Data Scientist \u2013 Healthcare & Life Sciences",
+            "employer_name": "Norstella",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR260q0V0Xutj08VVho-YzR8fL1NgjGxE_S_CAy&s=0",
+            "employer_website": "http://www.norstella.com/",
+            "job_publisher": "Emplois Chez SCI - Service Corporation International",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://emplois.sci-corp.com/washington-dc/nlp-llm-data-scientist-healthcare-life-sciences/0BAB7E9DBFA54DDD8D901F56B0A60158/job/?vs=28&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Emplois Chez SCI - Service Corporation International",
+                    "apply_link": "https://emplois.sci-corp.com/washington-dc/nlp-llm-data-scientist-healthcare-life-sciences/0BAB7E9DBFA54DDD8D901F56B0A60158/job/?vs=28&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "NLP & LLM Data Scientist \u2013 Healthcare & Life Sciences\n\nCompany: Norstella\n\nLocation: Remote, United States\n\nDate Posted: Apr 4, 2025\n\nEmployment Type: Full Time\n\nJob ID: R-1069\n\nDescription\n\nAbout Norstella\n\nAt Norstella, our mission is simple: to help our clients bring life-saving therapies to market quicker\u2014and help patients in need.\n\nFounded in 2022, but with history going back to 1939, Norstella unites best-in-class brands to help clients navigate the complexities at each step of the drug development life cycle \u2014and get the right treatments to the right patients at the right time.\n\nEach organization (Citeline, Evaluate, MMIT, Panalgo, The Dedham Group) delivers must-have answers for critical strategic and commercial decision-making. Together, via our market-leading brands, we help our clients:\n\u2022 Citeline \u2013 accelerate the drug development cycle\n\u2022 Evaluate \u2013 bring the right drugs to market\n\u2022 MMIT \u2013 identify barrier to patient access\n\u2022 Panalgo \u2013 turn data into insight faster\n\u2022 The Dedham Group \u2013 think strategically for specialty therapeutics\n\nBy combining the efforts of each organization under Norstella, we can offer an even wider breadth of expertise, cutting-edge data solutions and expert advisory services alongside advanced technologies such as real-world data, machine learning and predictive analytics.\n\nAs one of the largest global pharma intelligence solution providers, Norstella has a footprint across the globe with teams of experts delivering world class solutions in the USA, UK, The Netherlands, Japan, China and India.\n\nJob Description :\n\nNorstella Real World Data (RWD) is seeking a skilled NLP Data Scientist with clinical background with a focus on Language Models to join our AI & Life Sciences Solutions team. Your expertise in processing and understanding natural language data, along with your knowledge of Electronic Health Records (EHR) and laboratory reports analysis, will be instrumental in driving our data science initiatives and innovations, particularly in the development of rich multimodal real-world datasets to expedite RWD-driven drug development in pharma.\n\nResponsibilities:\n\u2022 Employ and leverage NLP and open-source Large Language Models (LLM) such as LLama2, Mixtral, Qwen, BERT, etc., to extract, process, and interpret unstructured medical data from diverse sources like EHRs, medical notes, and laboratory reports.\n\u2022 Collaborate with clinical scientists and data scientists to create efficient NLP models for healthcare, exhibiting an understanding of both the technical and medical aspects of the data.\n\u2022 Conduct data cleaning, preprocessing, and validation to maintain the accuracy and reliability of insights gathered from NLP processes.\n\u2022 Validate and present data findings to stakeholders, exhibiting clear and effective communication skills.\n\nQualifications:\n\u2022 Master's or Ph.D. degree in Computational Biology, Computer Science, Data Science, Computational Linguistics, Machine Learning, or a related analytical field.\n\u2022 Deep understanding and direct experience (2+ years) in handling and interpreting either Electronic Health Records (EHR) and laboratory tests results or genetic test results is a must.\n\u2022 Proven experience (2+ years) in NLP with a strong knowledge of NLP techniques such as Named Entity Recognition (NER), text summarization, topic modeling, etc. and their applied use in healthcare.\n\u2022 Expert-level understanding and practical experience (1+ years) with open-source Large Language Models (Llama2/3, Mixtral etc.), e.g., prompt engineering, inference, and fine-tuning.\n\u2022 Proficient in Python and SQL, with strong experience in NLP libraries such as NLTK, spaCy, Hugging face Transformers, and deep learning libraries such as PyTorch, TensorFlow.Familiarity with common data science and ML practices, e.g., version control systems, agile methodologies, and documentation.\n\u2022 Experience in working with AWS cloud environment and large databases (e.g., AWS redshift).\n\u2022 Experience in managing ML lifecycle using open-source tools (e.g., MLflow).Detail-oriented with strong analytical and problem-solving abilities.\n\u2022 Excellent verbal and written communication skills, with ability to present complex data to non-technical audience.\n\nPreferred Qualifications:\n\u2022 Experience dealing with protected health information (PHI) and familiarity with healthcare-related data privacy laws such as HIPAA.\n\u2022 Familiarity with standard healthcare codes and terminologies such as ICD-10, CPT, LOINC, and SNOMED CT.\n\u2022 Experience in RAG (Retrieval-Augmented Generation) and vector store in the context of storing large volume of healthcare unstructured documents and querying those.\n\nBenefits:\n\nMedical and prescription drug benefits\n\nHealth savings accounts or flexible spending accounts\n\nDental plans and vision benefits\n\nBasic life and AD&D Benefits\n\n401k retirement plan\n\nShort- and Long-Term Disability\n\nPaid parental leave\n\nPaid time off\n\nprinciples for success at Norstella\n\n01: Bold, Passionate, Mission-First\n\nWe have a lofty mission to Smooth Access to Life Saving Therapies and we will get there by being bold and passionate about the mission and our clients. Our clients and the mission in what we are trying to accomplish must be in the forefront of our minds in everything we do.\n\n02: Integrity, Truth, Reality\n\nWe make promises that we can keep, and goals that push us to new heights. Our integrity offers us the opportunity to learn and improve by being honest about what works and what doesn\u2019t. By being true to the data and producing realistic metrics, we are able to create plans and resources to achieve our goals.\n\n03: Kindness, Empathy, Grace\n\nWe will empathize with everyone's situation, provide positive and constructive feedback with kindness, and accept opportunities for improvement with grace and gratitude. We use this principle across the organization to collaborate and build lines of open communication.\n\n04: Resilience, Mettle, Perseverance\n\nWe will persevere \u2013 even in difficult and challenging situations. Our ability to recover from missteps and failures in a positive way will help us to be successful in our mission.\n\n05: Humility, Gratitude, Learning\n\nWe will be true learners by showing humility and gratitude in our work. We recognize that the smartest person in the room is the one who is always listening, learning, and willing to shift their thinking.\n\nThe expected base salary for this position ranges from $140,000 to $200,000. It is not typical for offers to be made at or near the top of the range. Salary offers are based on a wide range of factors including relevant skills, training, experience, education, and, where applicable, licensure or certifications obtained. Market and organizational factors are also considered. In addition to base salary and a competitive benefits package, successful candidates are eligible to receive a discretionary bonus.\n\nNorstella is an equal opportunities employer and does not discriminate on the grounds of gender, sexual orientation, marital or civil partner status, pregnancy or maternity, gender reassignment, race, color, nationality, ethnic or national origin, religion or belief, disability or age. Our ethos is to respect and value people\u2019s differences, to help everyone achieve more at work as well as in their personal lives so that they feel proud of the part they play in our success. We believe that all decisions about people at work should be based on the individual\u2019s abilities, skills, performance and behavior and our business requirements. Norstella operates a zero-tolerance policy to any form of discrimination, abuse or harassment.\n\nSometimes the best opportunities are hidden by self-doubt. We disqualify ourselves before we have the opportunity to be considered. Regardless of where you came from, how you identify, or the path that led you here- you are welcome. If you read this job description and feel passion and excitement, we\u2019re just as excited about you.\n\nNorstella is an equal opportunity employer. All job applicants will receive equal treatment regardless of race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, physical or mental disability or handicap, medical condition, sex (including pregnancy and pregnancy-related conditions), marital or domestic partner status, military or veteran status, gender, gender identity or expression, sexual orientation, genetic information, reproductive health decision making, or any other protected characteristic as established by federal, state, or local law.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9071923,
+            "job_longitude": -77.0368707,
+            "job_benefits": [
+                "paid_time_off",
+                "dental_coverage",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dl8iXupXiSOa1DRxfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Master's or Ph.D. degree in Computational Biology, Computer Science, Data Science, Computational Linguistics, Machine Learning, or a related analytical field",
+                    "Deep understanding and direct experience (2+ years) in handling and interpreting either Electronic Health Records (EHR) and laboratory tests results or genetic test results is a must",
+                    "Proven experience (2+ years) in NLP with a strong knowledge of NLP techniques such as Named Entity Recognition (NER), text summarization, topic modeling, etc",
+                    "Expert-level understanding and practical experience (1+ years) with open-source Large Language Models (Llama2/3, Mixtral etc.), e.g., prompt engineering, inference, and fine-tuning",
+                    "Proficient in Python and SQL, with strong experience in NLP libraries such as NLTK, spaCy, Hugging face Transformers, and deep learning libraries such as PyTorch, TensorFlow",
+                    "Familiarity with common data science and ML practices, e.g., version control systems, agile methodologies, and documentation",
+                    "Experience in working with AWS cloud environment and large databases (e.g., AWS redshift)",
+                    "Experience in managing ML lifecycle using open-source tools (e.g., MLflow).Detail-oriented with strong analytical and problem-solving abilities",
+                    "Excellent verbal and written communication skills, with ability to present complex data to non-technical audience",
+                    "04: Resilience, Mettle, Perseverance"
+                ],
+                "Benefits": [
+                    "Medical and prescription drug benefits",
+                    "Health savings accounts or flexible spending accounts",
+                    "Dental plans and vision benefits",
+                    "Basic life and AD&D Benefits",
+                    "401k retirement plan",
+                    "Short- and Long-Term Disability",
+                    "Paid parental leave",
+                    "Paid time off",
+                    "The expected base salary for this position ranges from $140,000 to $200,000",
+                    "Salary offers are based on a wide range of factors including relevant skills, training, experience, education, and, where applicable, licensure or certifications obtained",
+                    "In addition to base salary and a competitive benefits package, successful candidates are eligible to receive a discretionary bonus"
+                ],
+                "Responsibilities": [
+                    "Citeline \u2013 accelerate the drug development cycle",
+                    "Evaluate \u2013 bring the right drugs to market",
+                    "MMIT \u2013 identify barrier to patient access",
+                    "Panalgo \u2013 turn data into insight faster",
+                    "Your expertise in processing and understanding natural language data, along with your knowledge of Electronic Health Records (EHR) and laboratory reports analysis, will be instrumental in driving our data science initiatives and innovations, particularly in the development of rich multimodal real-world datasets to expedite RWD-driven drug development in pharma",
+                    "Employ and leverage NLP and open-source Large Language Models (LLM) such as LLama2, Mixtral, Qwen, BERT, etc., to extract, process, and interpret unstructured medical data from diverse sources like EHRs, medical notes, and laboratory reports",
+                    "Collaborate with clinical scientists and data scientists to create efficient NLP models for healthcare, exhibiting an understanding of both the technical and medical aspects of the data",
+                    "Conduct data cleaning, preprocessing, and validation to maintain the accuracy and reliability of insights gathered from NLP processes",
+                    "Validate and present data findings to stakeholders, exhibiting clear and effective communication skills"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "JIQUnnb9WrEJSTR0AAAAAA==",
+            "job_title": "NLP Data Scientist",
+            "employer_name": "Redshred",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZZgheGG1hNJWR8jpg5Qto4Z6E-49kE7vbzX4&s=0",
+            "employer_website": "https://redshred.com",
+            "job_publisher": "Wellfound",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://wellfound.com/jobs/3279607-nlp-data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Wellfound",
+                    "apply_link": "https://wellfound.com/jobs/3279607-nlp-data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Vaia \u2013 Talents",
+                    "apply_link": "https://talents.vaia.com/companies/byte-code-spa/nlp-scientist-15069398/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dive Into Python",
+                    "apply_link": "https://diveintopython.org/jobs/nlp-data-scientist-python-machine-learning-ai-hybrid-tssci-tampa-or-dc-15175?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/446702be52663b96e37788703d69aca9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/5248154215?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Scienceabode",
+                    "apply_link": "https://scienceabode.com/job/nlp-data-scientist/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "About Us:\n\nRedshred is a leading innovator in making document-based content accessible for downstream integration and innovation through the creative use of AI and ML.\n\nJob Responsibilities:\n\u2022 NLP Model Development: Design, develop, and implement NLP models and algorithms for various applications, including text analysis, language generation, sentiment analysis, and more.\n\u2022 Data Processing: Preprocess and analyze large datasets to build and train NLP models, ensuring data quality and consistency.\n\u2022 Model Deployment: Deploy NLP models into production environments, ensuring scalability, reliability, and performance.\n\u2022 Research and Innovation: Stay current with the latest advancements in NLP and machine learning, and apply new techniques to improve existing models and develop new ones.\n\u2022 Collaboration: Work closely with data scientists, software engineers, and product managers to integrate NLP capabilities into our products and services.\n\u2022 Evaluation and Optimization: Evaluate the performance of NLP models using appropriate metrics, and optimize models for accuracy, speed, and efficiency.\n\u2022 Documentation and Reporting: Document the development process, model architectures, and experimental results. Communicate findings and progress to stakeholders.\n\nQualifications:\n\u2022 Education: Bachelor\u2019s or Master\u2019s degree in Computer Science, Computational Linguistics, Data Science, or a related field.\n\u2022 Experience: 3+ years of experience in NLP, machine learning, or a related field.\n\nTechnical Skills:\n\u2022 Proficiency in programming languages such as Python or Java.\n\u2022 Experience with NLP libraries and frameworks such as NLTK, SpaCy, TensorFlow, PyTorch, or similar.\n\u2022 Strong understanding of machine learning algorithms and statistical methods.\n\u2022 Familiarity with cloud platforms (AWS, GCP, Azure) and containerization technologies (Docker, Kubernetes).\n\nSoft Skills:\n\u2022 Excellent problem-solving skills and analytical thinking.\n\u2022 Strong communication and collaboration abilities.\n\u2022 Ability to work independently and as part of a team.\n\u2022 Other Requirements: Must be able to obtain security clearance.\n\nBenefits:\n\u2022 401K: Competitive 401K matching program.\n\u2022 PTO: Unlimited paid time off to support work-life balance.\n\u2022 Remote work: Remote work is available, with a bias towards candidates in the DC metro area who could come into HQ for design discussions and hackathons.\n\u2022 Professional Development: Opportunities for continuous learning and professional growth.\n\nWork Environment:\n\u2022 Flexible working hours and a collaborative, inclusive work culture.",
+            "job_is_remote": true,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Baltimore, MD",
+            "job_city": "Baltimore",
+            "job_state": "Maryland",
+            "job_country": "US",
+            "job_latitude": 39.2905023,
+            "job_longitude": -76.6104072,
+            "job_benefits": [
+                "paid_time_off"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJIQUnnb9WrEJSTR0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Education: Bachelor\u2019s or Master\u2019s degree in Computer Science, Computational Linguistics, Data Science, or a related field",
+                    "Experience: 3+ years of experience in NLP, machine learning, or a related field",
+                    "Proficiency in programming languages such as Python or Java",
+                    "Experience with NLP libraries and frameworks such as NLTK, SpaCy, TensorFlow, PyTorch, or similar",
+                    "Strong understanding of machine learning algorithms and statistical methods",
+                    "Familiarity with cloud platforms (AWS, GCP, Azure) and containerization technologies (Docker, Kubernetes)",
+                    "Excellent problem-solving skills and analytical thinking",
+                    "Strong communication and collaboration abilities",
+                    "Ability to work independently and as part of a team",
+                    "Other Requirements: Must be able to obtain security clearance"
+                ],
+                "Benefits": [
+                    "401K: Competitive 401K matching program",
+                    "PTO: Unlimited paid time off to support work-life balance",
+                    "Remote work: Remote work is available, with a bias towards candidates in the DC metro area who could come into HQ for design discussions and hackathons",
+                    "Professional Development: Opportunities for continuous learning and professional growth",
+                    "Flexible working hours and a collaborative, inclusive work culture"
+                ],
+                "Responsibilities": [
+                    "NLP Model Development: Design, develop, and implement NLP models and algorithms for various applications, including text analysis, language generation, sentiment analysis, and more",
+                    "Data Processing: Preprocess and analyze large datasets to build and train NLP models, ensuring data quality and consistency",
+                    "Model Deployment: Deploy NLP models into production environments, ensuring scalability, reliability, and performance",
+                    "Research and Innovation: Stay current with the latest advancements in NLP and machine learning, and apply new techniques to improve existing models and develop new ones",
+                    "Collaboration: Work closely with data scientists, software engineers, and product managers to integrate NLP capabilities into our products and services",
+                    "Evaluation and Optimization: Evaluate the performance of NLP models using appropriate metrics, and optimize models for accuracy, speed, and efficiency",
+                    "Documentation and Reporting: Document the development process, model architectures, and experimental results",
+                    "Communicate findings and progress to stakeholders"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "5Yhj-8LQR1d29BqxAAAAAA==",
+            "job_title": "Lead Data Scientist , Clinical AI ( NLP , LLM , GenAI , GCP ) - Remote - Full-time",
+            "employer_name": "CVS Health",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudUQ7bAJjtUW_FO_Jjs6PIFXc_7l7lfcD4fbb&s=0",
+            "employer_website": "http://www.cvshealth.com/",
+            "job_publisher": "Snagajob",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.snagajob.com/jobs/1070617495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Snagajob",
+                    "apply_link": "https://www.snagajob.com/jobs/1070617495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Bring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand \u2014 with heart at its center \u2014 our purpose sends a personal message that how we deliver our services is just as important as what we deliver.\n\nOur Heart At Work Behaviors\u2122 support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.\n\u2022 *Position Summary**\n\nThe Clinical AI team is tasked with activating CVS Health\u2019s clinical data to improve outcomes across multiple lines of business and use cases. As a Lead Data Scientist, you will\u2026\n\n+ be a subject matter expert in clinical data and how to apply it to solve health care problems.\n\n+ design, develop, validate, implement, and support predictive models and algorithms that investigate problem spaces, identify patterns, support decision-making processes, or anticipate outcomes.\n\n+ lead data scientists, data engineers, machine learning engineers, and product owners to design and implement analytics solution.\n\n+ utilize natural language processing (NLP) and large language models (LLMs) to extract insights and features from unstructured clinical data.\n\n+ lead development of the clinical data feature store, which aims to accelerate adoption of future use cases utilizing clinical data.\n\n+ explore, validate, interpret, and summarize large amounts of data with various types/structures using advanced statistical and mathematical approaches.\n\n+ develop end-to-end analytics solutions, from developing problem statements to deploying models into production.\n\n+ build dashboards and data visualizations to effectively communicate analysis results and support decision making processes.\n\n+ translate problem statements from business partners into conceptual solutions, analyze feasibility, and estimate work efforts for analytical use cases early in their lifecycle.\n\n+ create documentation of project details, like problem statements, business outcomes, data exploration, ML model details, and deployment/support instructions.\n\n+ develop and lead presentations and consultations to existing and prospective constituents on\u202fanalytics opportunities, results, and solutions.\n\n+ provide technical coaching and development to data scientists.\n\n+ foster a team culture of innovation and collaboration.\n\u2022 *Required Qualifications**\n\n+ 7+ years of relevant analytics experience.\n\n+ Experience solving analytics problems using advanced statistics, machine learning, and mathematical algorithms.\n\n+ Experience leading analytics projects from concept to delivery by coordinating across a diverse set of stakeholders.\n\n+ Experience using natural language processing (NLP), large language models (LLMs), and Generative AI (Gen AI) to extract insights from text data.\n\n+ Experience using Google Cloud Platform (GCP) tools, including BigQuery, Vertex AI, DataProc, and Cloud Composer to implement scalable analytics solutions.\n\n+ Ability to anticipate and prevent roadblocks throughout a project lifecycle and drive resolution/mitigation.\n\n+ Demonstrates strong written and verbal communication skills, including the ability to present complex ideas to various audiences.\n\u2022 *Preferred Qualifications**\n\n+ Experience solving analytics problems in the healthcare domain using clinical data.\n\u2022 *Education**\n\n+ Bachelor\u2019s degree or equivalent work experience in Mathematics, Statistics, Computer Science, Business Analytics, Economics, Physics, Engineering, or related discipline.Master\u2019s degree preferred.\n\u2022 *Pay Range**\n\nThe typical pay range for this role is:\n\n$106,605.00 - $284,280.00\n\nThis pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. This position also includes an award target in the company\u2019s equity award program.\n\nIn addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities. The Company offers a full range of medical, dental, and vision benefits. Eligible employees may enroll in the Company\u2019s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees. The Company provides a fully-paid term life insurance plan to eligible employees, and short-term and long term disability benefits. CVS Health also offers numerous well-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners. As for time off, Company employees enjoy Paid Time Off (\u201cPTO\u201d) or vacation pay, as well as paid holidays throughout the calendar year. Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies.\n\nFor more detailed information on available benefits, please visit Benefits | CVS Health (https://jobs.cvshealth.com/us/en/benefits)\n\nWe anticipate the application window for this opening will close on: 11/13/2024\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.\n\nWe are an equal opportunity and affirmative action employer. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.\n\nBring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand \u2014 with heart at its center \u2014 our purpose sends a personal message that how we deliver our services is just as important as what we deliver.\n\nOur Heart At Work Behaviors\u2122 support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.\n\u2022 *Position Summary**\n\nThe Clinical AI team is tasked with activating CVS Health\u2019s clinical data to improve outcomes across multiple lines of business and use cases. As a Lead Data Scientist, you will\u2026\n\n+ be a subject matter expert in clinical data and how to apply it to solve health care problems.\n\n+ design, develop, validate, implement, and support predictive models and algorithms that investigate problem spaces, identify patterns, support decision-making processes, or anticipate outcomes.\n\n+ lead data scientists, data engineers, machine learning engineers, and product owners to design and implement analytics solution.\n\n+ utilize natural language processing (NLP) and large language models (LLMs) to extract insights and features from unstructured clinical data.\n\n+ lead development of the clinical data feature store, which aims to accelerate adoption of future use cases utilizing clinical data.\n\n+ explore, validate, interpret, and summarize large amounts of data with various types/structures using advanced statistical and mathematical approaches.\n\n+ develop end-to-end analytics solutions, from developing problem statements to deploying models into production.\n\n+ build dashboards and data visualizations to effectively communicate analysis results and support decision making processes.\n\n+ translate problem statements from business partners into conceptual solutions, analyze feasibility, and estimate work efforts for analytical use cases early in their lifecycle.\n\n+ create documentation of project details, like problem statements, business outcomes, data exploration, ML model details, and deployment/support instructions.\n\n+ develop and lead presentations and consultations to existing and prospective constituents on\u202fanalytics opportunities, results, and solutions.\n\n+ provide technical coaching and development to data scientists.\n\n+ foster a team culture of innovation and collaboration.\n\u2022 *Required Qualifications**\n\n+ 7+ years of relevant analytics experience.\n\n+ Experience solving analytics problems using advanced statistics, machine learning, and mathematical algorithms.\n\n+ Experience leading analytics projects from concept to delivery by coordinating across a diverse set of stakeholders.\n\n+ Experience using natural language processing (NLP), large language models (LLMs), and Generative AI (Gen AI) to extract insights from text data.\n\n+ Experience using Google Cloud Platform (GCP) tools, including BigQuery, Vertex AI, DataProc, and Cloud Composer to implement scalable analytics solutions.\n\n+ Ability to anticipate and prevent roadblocks throughout a project lifecycle and drive resolution/mitigation.\n\n+ Demonstrates strong written and verbal communication skills, including the ability to present complex ideas to various audiences.\n\u2022 *Preferred Qualifications**\n\n+ Experience solving analytics problems in the healthcare domain using clinical data.\n\u2022 *Education**\n\n+ Bachelor\u2019s degree or equivalent work experience in Mathematics, Statistics, Computer Science, Business Analytics, Economics, Physics, Engineering, or related discipline.Master\u2019s degree preferred.\n\u2022 *Pay Range**\n\nThe typical pay range for this role is:\n\n$106,605.00 - $284,280.00\n\nThis pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. This position also includes an award target in the company\u2019s equity award program.\n\nIn addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities. The Company offers a full range of medical, dental, and vision benefits. Eligible employees may enroll in the Company\u2019s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees. The Company provides a fully-paid term life insurance plan to eligible employees, and short-term and long term disability benefits. CVS Health also offers numerous well-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners. As for time off, Company employees enjoy Paid Time Off (\u201cPTO\u201d) or vacation pay, as well as paid holidays throughout the calendar year. Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies.\n\nFor more detailed information on available benefits, please visit Benefits | CVS Health (https://jobs.cvshealth.com/us/en/benefits)\n\nWe anticipate the application window for this opening will close on: 11/13/2024\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.\n\nWe are an equal opportunity and affirmative action employer. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.",
+            "job_is_remote": false,
+            "job_posted_at": "2 days ago",
+            "job_posted_at_timestamp": 1749859200,
+            "job_posted_at_datetime_utc": "2025-06-14T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9071923,
+            "job_longitude": -77.0368707,
+            "job_benefits": [
+                "health_insurance",
+                "paid_time_off",
+                "dental_coverage"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5Yhj-8LQR1d29BqxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "7+ years of relevant analytics experience",
+                    "Experience solving analytics problems using advanced statistics, machine learning, and mathematical algorithms",
+                    "Experience using Google Cloud Platform (GCP) tools, including BigQuery, Vertex AI, DataProc, and Cloud Composer to implement scalable analytics solutions",
+                    "Ability to anticipate and prevent roadblocks throughout a project lifecycle and drive resolution/mitigation",
+                    "Demonstrates strong written and verbal communication skills, including the ability to present complex ideas to various audiences",
+                    "Experience solving analytics problems in the healthcare domain using clinical data",
+                    "7+ years of relevant analytics experience",
+                    "Experience solving analytics problems using advanced statistics, machine learning, and mathematical algorithms",
+                    "Experience leading analytics projects from concept to delivery by coordinating across a diverse set of stakeholders",
+                    "Experience using natural language processing (NLP), large language models (LLMs), and Generative AI (Gen AI) to extract insights from text data",
+                    "Experience using Google Cloud Platform (GCP) tools, including BigQuery, Vertex AI, DataProc, and Cloud Composer to implement scalable analytics solutions",
+                    "Ability to anticipate and prevent roadblocks throughout a project lifecycle and drive resolution/mitigation",
+                    "Demonstrates strong written and verbal communication skills, including the ability to present complex ideas to various audiences",
+                    "Experience solving analytics problems in the healthcare domain using clinical data"
+                ],
+                "Benefits": [
+                    "$106,605.00 - $284,280.00",
+                    "This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls",
+                    "The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors",
+                    "This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above",
+                    "This position also includes an award target in the company\u2019s equity award program",
+                    "In addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities",
+                    "The Company offers a full range of medical, dental, and vision benefits",
+                    "Eligible employees may enroll in the Company\u2019s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees",
+                    "The Company provides a fully-paid term life insurance plan to eligible employees, and short-term and long term disability benefits",
+                    "CVS Health also offers numerous well-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners",
+                    "As for time off, Company employees enjoy Paid Time Off (\u201cPTO\u201d) or vacation pay, as well as paid holidays throughout the calendar year",
+                    "Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies",
+                    "$106,605.00 - $284,280.00",
+                    "This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls",
+                    "The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors",
+                    "This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above",
+                    "This position also includes an award target in the company\u2019s equity award program",
+                    "In addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities",
+                    "The Company offers a full range of medical, dental, and vision benefits",
+                    "Eligible employees may enroll in the Company\u2019s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees",
+                    "The Company provides a fully-paid term life insurance plan to eligible employees, and short-term and long term disability benefits",
+                    "CVS Health also offers numerous well-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners",
+                    "As for time off, Company employees enjoy Paid Time Off (\u201cPTO\u201d) or vacation pay, as well as paid holidays throughout the calendar year",
+                    "Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies"
+                ],
+                "Responsibilities": [
+                    "The Clinical AI team is tasked with activating CVS Health\u2019s clinical data to improve outcomes across multiple lines of business and use cases",
+                    "be a subject matter expert in clinical data and how to apply it to solve health care problems",
+                    "design, develop, validate, implement, and support predictive models and algorithms that investigate problem spaces, identify patterns, support decision-making processes, or anticipate outcomes",
+                    "lead data scientists, data engineers, machine learning engineers, and product owners to design and implement analytics solution",
+                    "utilize natural language processing (NLP) and large language models (LLMs) to extract insights and features from unstructured clinical data",
+                    "lead development of the clinical data feature store, which aims to accelerate adoption of future use cases utilizing clinical data",
+                    "explore, validate, interpret, and summarize large amounts of data with various types/structures using advanced statistical and mathematical approaches",
+                    "develop end-to-end analytics solutions, from developing problem statements to deploying models into production",
+                    "build dashboards and data visualizations to effectively communicate analysis results and support decision making processes",
+                    "translate problem statements from business partners into conceptual solutions, analyze feasibility, and estimate work efforts for analytical use cases early in their lifecycle",
+                    "create documentation of project details, like problem statements, business outcomes, data exploration, ML model details, and deployment/support instructions",
+                    "develop and lead presentations and consultations to existing and prospective constituents on\u202fanalytics opportunities, results, and solutions",
+                    "provide technical coaching and development to data scientists",
+                    "foster a team culture of innovation and collaboration",
+                    "Experience leading analytics projects from concept to delivery by coordinating across a diverse set of stakeholders",
+                    "Experience using natural language processing (NLP), large language models (LLMs), and Generative AI (Gen AI) to extract insights from text data",
+                    "The Clinical AI team is tasked with activating CVS Health\u2019s clinical data to improve outcomes across multiple lines of business and use cases",
+                    "be a subject matter expert in clinical data and how to apply it to solve health care problems",
+                    "design, develop, validate, implement, and support predictive models and algorithms that investigate problem spaces, identify patterns, support decision-making processes, or anticipate outcomes",
+                    "lead data scientists, data engineers, machine learning engineers, and product owners to design and implement analytics solution",
+                    "utilize natural language processing (NLP) and large language models (LLMs) to extract insights and features from unstructured clinical data",
+                    "lead development of the clinical data feature store, which aims to accelerate adoption of future use cases utilizing clinical data",
+                    "explore, validate, interpret, and summarize large amounts of data with various types/structures using advanced statistical and mathematical approaches",
+                    "develop end-to-end analytics solutions, from developing problem statements to deploying models into production",
+                    "build dashboards and data visualizations to effectively communicate analysis results and support decision making processes",
+                    "translate problem statements from business partners into conceptual solutions, analyze feasibility, and estimate work efforts for analytical use cases early in their lifecycle",
+                    "create documentation of project details, like problem statements, business outcomes, data exploration, ML model details, and deployment/support instructions",
+                    "develop and lead presentations and consultations to existing and prospective constituents on\u202fanalytics opportunities, results, and solutions",
+                    "provide technical coaching and development to data scientists",
+                    "foster a team culture of innovation and collaboration"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "aHUZ1fAwLRoYcaAVAAAAAA==",
+            "job_title": "Senior Data Scientist \u2013 ML/NLP",
+            "employer_name": "Geico Auto Insurance",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMUlfi1IGI-dU9K7T9UbtWG8OMOsvDjdAYdfv&s=0",
+            "employer_website": "https://www.geico.com",
+            "job_publisher": "JobzMall",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.jobzmall.com/geico-auto-insurance/job/senior-data-scientist-ml-nlp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "JobzMall",
+                    "apply_link": "https://www.jobzmall.com/geico-auto-insurance/job/senior-data-scientist-ml-nlp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "We at Geico Auto Insurance are excited to offer a unique opportunity to join our team as a Senior Data Scientist \u2013 ML/NLP. In this newly created role, you will lead our efforts in applying modern Machine Learning (ML) and Natural Language Processing (NLP) techniques to solve complex automotive insurance problems.This is an excellent opportunity for an experienced data scientist who is passionate about developing cutting-edge ML/NLP solutions. You must have a deep knowledge of ML/NLP, as well as a strong understanding of the automotive insurance industry.The ideal candidate must have a minimum of 5 years of experience in ML/NLP and a Master\u2019s degree in a related field. We are looking for someone who is a creative problem-solver, with the ability to quickly learn and apply new techniques. You should also be an excellent communicator, able to explain complex concepts to a variety of stakeholders.If you are looking for an exciting challenge with the opportunity to make an impact, we encourage you to apply for this position. We look forward to hearing from you!\n\nResponsibilities:\nLead the development and implementation of ML/NLP techniques to solve automotive insurance problems\nDevelop cutting-edge ML/NLP solutions for insurance applications\nResearch and evaluate the latest ML/NLP technologies\nDevelop prototypes and models to test and validate ML/NLP solutions\nCollaborate with stakeholders to explain complex ML/NLP concepts\nTrain and mentor other data scientists in ML/NLP technologies\nMonitor data quality and accuracy of ML/NLP models\nDevelop and implement best practices for ML/NLP data management\nProvide technical guidance and support to other teams in the company\n\nGeico Auto Insurance is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Chevy Chase",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9610151,
+            "job_longitude": -77.06620889999999,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaHUZ1fAwLRoYcaAVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 116000,
+            "job_max_salary": 180000,
+            "job_salary_period": "YEAR",
+            "job_highlights": {
+                "Qualifications": [
+                    "This is an excellent opportunity for an experienced data scientist who is passionate about developing cutting-edge ML/NLP solutions",
+                    "You must have a deep knowledge of ML/NLP, as well as a strong understanding of the automotive insurance industry",
+                    "The ideal candidate must have a minimum of 5 years of experience in ML/NLP and a Master\u2019s degree in a related field",
+                    "We are looking for someone who is a creative problem-solver, with the ability to quickly learn and apply new techniques",
+                    "You should also be an excellent communicator, able to explain complex concepts to a variety of stakeholders.If you are looking for an exciting challenge with the opportunity to make an impact, we encourage you to apply for this position"
+                ],
+                "Responsibilities": [
+                    "Lead the development and implementation of ML/NLP techniques to solve automotive insurance problems",
+                    "Develop cutting-edge ML/NLP solutions for insurance applications",
+                    "Research and evaluate the latest ML/NLP technologies",
+                    "Develop prototypes and models to test and validate ML/NLP solutions",
+                    "Collaborate with stakeholders to explain complex ML/NLP concepts",
+                    "Train and mentor other data scientists in ML/NLP technologies",
+                    "Monitor data quality and accuracy of ML/NLP models",
+                    "Develop and implement best practices for ML/NLP data management",
+                    "Provide technical guidance and support to other teams in the company"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        }
+    ]
 }

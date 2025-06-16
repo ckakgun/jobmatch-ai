@@ -2,7 +2,7 @@ import pymupdf # to extract text from a pdf
 import os
 import json
 
-path = 'data/ceren_linkedin_profile.pdf'
+path = 'data/linkedin_profile.pdf'
 def extract_text_from_pdf(path):
     '''
     Extract linkedin profile text from a pdf file
