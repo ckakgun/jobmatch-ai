@@ -1,162 +1,349 @@
 {
     "status": "OK",
-    "request_id": "4fd12b1c-b3ee-42ce-80e8-a38bd08d904c",
+    "request_id": "d7cff22b-a4ee-43e7-8339-0b5367a30f87",
     "parameters": {
-        "query": "NLP Data Scientist Junior Machine Learning AI",
+        "query": "berlin nlp data scientist",
         "page": 1,
         "num_pages": 1,
-        "date_posted": "today",
         "country": "us",
         "language": "en"
     },
     "data": [
         {
-            "job_id": "SdpAHE9YBbRV9tJBAAAAAA==",
-            "job_title": "NLP Engineer",
-            "employer_name": "Jobleads-US",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw89Ju35iZBMq12Dxvatoi3VVaj94uzEQbO11&s=0",
-            "employer_website": null,
+            "job_id": "9hogzZhS4ywFOw31AAAAAA==",
+            "job_title": "NLP Scientist",
+            "employer_name": "Amazon",
+            "employer_logo": null,
+            "employer_website": "https://www.amazon.com/",
+            "job_publisher": "Jooble",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://de.jooble.org/rjdp/3334235209628959926/NLP-Scientist-Berlin?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Jooble",
+                    "apply_link": "https://de.jooble.org/rjdp/3334235209628959926/NLP-Scientist-Berlin?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Applied Scientist, Artificial General Intelligence, AGI Information\n\nStellen-ID: 2970334 | Amazon Development Center Germany GmbH\n\nWe are looking for a passionate, talented and inventive Applied Scientist to develop industry-leading Generative Artificial Intelligence (GenAI) technology with Large Language Models (LLMs). In this role, you will innovate in the fastest-moving fields of current AI research, in particular developing state-of-the-art foundation models capable of processing a broad range of prompts and information in many languages.\n\nIf you are deeply familiar with Large Language Model development, natural language processing and machine learning, this may be the right opportunity for you. Our fast-paced environment requires a high degree of independence in making decisions and driving ambitious research agendas all the way to production. You will work with other science and engineering teams across AGI, as well as business stakeholders to maximize velocity and impact of your team's contributions.\n\nDesign and execute experiments to evaluate the performance of post-training algorithms and data, and iterate quickly to improve results.\n\u2022 PhD, or a Master's degree and experience in CS, CE, ML or related field\n\u2022 Experience programming in Java, C++, Python or related language\n\u2022 Experience with deep learning and/or machine learning, post-training techniques for LLMs (SFT, DPO, PPO etc.), natural language processing.\n\nExperience using Unix/Linux\n\u2022 Experience in patents or publications at top-tier peer-reviewed conferences or journals\n\u2022 Experience in professional software development\n\u2022 Hands-on experience in training and evaluating LLMs\n\nProtecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice () to know more about how we collect, use and transfer the personal data of our candidates.\n\nIf you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit for more information.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Berlin, Germany",
+            "job_city": "Berlin",
+            "job_state": null,
+            "job_country": "DE",
+            "job_latitude": 52.520006599999995,
+            "job_longitude": 13.404954,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9hogzZhS4ywFOw31AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "xCstFvzwgIZMQ-tzAAAAAA==",
+            "job_title": "Entrepreneurial Team For Data-Mining/NLP/Quantitative Content Analysis needed for International Quantitative Content Analysis/NLP/Data-Mining",
+            "employer_name": "Johannes",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWpcmacanENK27tn2VF2aXyrEMNeHTwMMcUkG&s=0",
+            "employer_website": "https://johannesleonardo.com",
+            "job_publisher": "Founderio.com",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.founderio.com/job/321227?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Founderio.com",
+                    "apply_link": "https://www.founderio.com/job/321227?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "The aim of the company is to address various business problems related to Marketing (e.g., consumer analysis), Pricing, Competitor analysis etc. across various sources (e.g., social media) on an international scale via traditional means (e.g., sentiment analysis, dictionary building) but also to implement unique NLP approaches (machine-learning).",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Berlin, Germany",
+            "job_city": "Berlin",
+            "job_state": null,
+            "job_country": "DE",
+            "job_latitude": 52.520006599999995,
+            "job_longitude": 13.404954,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxCstFvzwgIZMQ-tzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "15204100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "K5EUrTCZkdf0TFkXAAAAAA==",
+            "job_title": "Mitgr\u00fcnder/-in im Bereich NLP/ML needed for Legal Tech Start-Up",
+            "employer_name": "Til",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWpcmacanENK27tn2VF2aXyrEMNeHTwMMcUkG&s=0",
+            "employer_website": "https://tilgroup.com",
+            "job_publisher": "Founderio.com",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.founderio.com/job/2850776?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Founderio.com",
+                    "apply_link": "https://www.founderio.com/job/2850776?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "- IT-Absolvent:in (Bachelor oder Master) bevorzugt mit Wohnsitz in Berlin- Ausgepr\u00e4gte technische Expertise und/oder weitergehende Einarbeitungsbereitschaft in Bereichen wie ML (Entity Recognition, Federated und Deep Learning), NLP, Computer Vision (OCR) und/oder Data Science jeweils mit Bezug zu Textverarbeitung und Auswertung - Berufserfahrung ist ein Plus- F\u00e4higkeit, schwierige Fragen/Informationen aus der Business-Perspektive zu verstehen und in Software-Features umzusetzen- F\u00e4higkeit, sich vorzustellen, wie technisches Wissen au\u00dferhalb der akademischen Welt angewandt werden kann mit einem Fokus auf technische Innovation",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Berlin, Germany",
+            "job_city": "Berlin",
+            "job_state": null,
+            "job_country": "DE",
+            "job_latitude": 52.520006599999995,
+            "job_longitude": 13.404954,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DK5EUrTCZkdf0TFkXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "23101100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "pZhxy6geCrm2JH1zAAAAAA==",
+            "job_title": "Principal Researcher - AI & LLM",
+            "employer_name": "Snowflake",
+            "employer_logo": null,
+            "employer_website": "http://www.snowflake.com/",
+            "job_publisher": "Karkidi",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.karkidi.com/job-details/81010-principal-researcher-ai-llm-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Karkidi",
+                    "apply_link": "https://www.karkidi.com/job-details/81010-principal-researcher-ai-llm-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "There is only one Data Cloud. Snowflake\u2019s founders started from scratch and designed a data platform built for the cloud that is effective, affordable, and accessible to all data users. But it didn\u2019t stop there. They engineered Snowflake to power the Data Cloud, where thousands of organizations unlock the value of their data with near-unlimited scale, concurrency, and performance. This is our vision: a world with endless insights to tackle the challenges and opportunities of today and reveal the possibilities of tomorrow.\n\nWe\u2019re searching for a talented Principal Researcher to join us for our efforts building out the Snowflake platform with cognitive capabilities. Our team at Snowflake has responsibility for moving boundaries of NLP space to SOTA levels and coming up with new solutions in cognitive space. As our team is growing rapidly to keep up with this key responsibility alongside Snowflake\u2019s immense growth, we need additional talent to help lead the change.\n\nYou will get to be a technology thought leader, evangelize new, cutting-edge technologies and solve complex problems.\n\nAS PRINCIPAL RESEARCH YOU WILL:\n\u2022 Build products and services that are at the heart of research\n\u2022 Participate in decision-making processes and set new courses for our research projects\n\u2022 Collaborate with engineers and researchers across teams to help deliver cross-functional initiatives\n\u2022 Think creatively to find optimal solutions to our complex, often ambiguous problems.\n\u2022 Participate in all stages of developing new LLM-based solutions in the domain of unstructured data processing.\n\u2022 Work closely with other research, engineering, and product management to understand and shape the short and long-term product development strategy.\n\u2022 Serve as a mentor to less experienced researchers, engineers, and product managers.\n\u2022 Answer questions from the executive team for board reporting, publications, and industry reports.\n\nIDEAL PRINCIPAL RESEARCH WILL HAVE:\n\u2022 18+ years of industry or academia experience in NLP and unstructured data research and commercialization\n\u2022 Expert level knowledge working with Python and Deep Learning libraries such as PyTorch or TensorFlow.\n\u2022 Familiar with recent advances in NLP/CV with a deep understanding of the basic classes of ML/DL algorithms (also the underlying assumptions).\n\u2022 Prior exposure to best practices in the software development lifecycle, and a commitment to implementing these practices appropriately in the context.\n\u2022 High levels of curiosity and eager enthusiasm for open-ended problems. Experience and interest in problem formulation based on relatively abstract information.\n\u2022 Ability to articulate results and complex concepts to leadership.\n\u2022 Must be able to produce solutions independently in an organized manner, work in a team and also be able to lead a team when required.\n\u2022 Ph,D. in Natural Language Processing, Machine Learning, Computer Science, Data Science, Mathematics or in related fields will be considered as a strong asset.\n\u2022 A proven track record in top-tier conferences from AI/NLP domain will be a strong asset.\n\nSnowflake is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, color, gender identity or expression, marital status, national origin, disability, protected veteran status, race, religion, pregnancy, sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Berlin, Germany",
+            "job_city": "Berlin",
+            "job_state": null,
+            "job_country": "DE",
+            "job_latitude": 52.520006599999995,
+            "job_longitude": 13.404954,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpZhxy6geCrm2JH1zAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": "YEAR",
+            "job_highlights": {},
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "_yPL6ZxnxBL2nmH5AAAAAA==",
+            "job_title": "Natural Language Processing Specialist",
+            "employer_name": "beBee Careers",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4ZDEoFbmqZaS3OX19CNS4F7Oe1s1V2FbPn3_&s=0",
+            "employer_website": "https://us.bebee.com",
+            "job_publisher": "BeBee",
+            "job_employment_type": "Contractor",
+            "job_employment_types": [
+                "CONTRACTOR",
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://de.bebee.com/job/a016bac5b13b23e89e04801611546dd9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://de.bebee.com/job/a016bac5b13b23e89e04801611546dd9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Trabajo.org - Stellenangebote, Arbeit",
+                    "apply_link": "https://de.trabajo.org/stellenangebot-3390-23061d5d50fe4dc9282f99522e5b7eb1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Natural Language Processing Engineer\n\nWe are seeking a talented Natural Language Processing (NLP) Engineer to join our AI Research and Development team. As an NLP Engineer, you will play a key role in developing cutting-edge algorithms and models to enhance our AI technology.",
+            "job_is_remote": false,
+            "job_posted_at": "17 days ago",
+            "job_posted_at_timestamp": 1748563200,
+            "job_posted_at_datetime_utc": "2025-05-30T00:00:00.000Z",
+            "job_location": "Berlin, Germany",
+            "job_city": "Berlin",
+            "job_state": null,
+            "job_country": "DE",
+            "job_latitude": 52.520006599999995,
+            "job_longitude": 13.404954,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_yPL6ZxnxBL2nmH5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "yHdh69NZ9x6MGCNwAAAAAA==",
+            "job_title": "Analytics & AI Engineer",
+            "employer_name": "confidential",
+            "employer_logo": null,
+            "employer_website": "https://confidential.careers",
+            "job_publisher": "Jooble",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://de.jooble.org/jdp/7706712021719571131/Analytics-%26-AI-Engineer-Berlin?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Jooble",
+                    "apply_link": "https://de.jooble.org/jdp/7706712021719571131/Analytics-%26-AI-Engineer-Berlin?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs.weekday.works",
+                    "apply_link": "https://jobs.weekday.works/we-are-era-analytics-%26-ai-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "Analytics & AI Engineer\nYour Tasks\n\u2022 Design and maintain scalable data models & pipelines.\n\u2022 Optimize query performance and data processing efficiency.\n\u2022 Automate recurring business data workflows and reporting processes.\n\u2022 Develop intuitive dashboards and insightful reports to empower internal teams.\n\u2022 Build GenAI systems in production, including LLMs, embeddings, and Retrieval-Augmented Generation (RAG).\n\u2022 Architect end-to-end AI solutions \u2014 from data collection to model deployment and monitoring.\n\u2022 Collaborate closely with product, software development, and business teams to integrate and enhance AI-driven solutions.\nYour Profile\n\u2022 You have 3+ years of experience in analytics, data engineering or AI engineering.\n\u2022 Strong proficiency in Python and SQL with expertise in building and optimizing ETL/ELT pipelines.\n\u2022 Solid experience with cloud platforms (AWS, GCP) and data warehouses (Redshift, BigQuery).\n\u2022 Skilled in data orchestration and modeling tools (Airflow, dbt).\n\u2022 Hands-on experience developing production-ready generative AI solutions (e.g., LLMs, embeddings, RAG, chatbots) using tools like OpenAI, Hugging Face, or Claude.\n\u2022 Entrepreneurial and independent, with strong collaboration and communication skills across diverse teams.\nAbout us\n\nWe Are Era is the first pan-European studio and talent agency with offices in Amsterdam, Berlin, Cologne, Paris, Milan and Stockholm. Our vision? Shaping the zeitgeist in an era of movements - and with success: our productions and campaigns for broadcasters, brands and NGOs have won multiple awards. We create stories with impact and attitude, developed and told by and for people all over Europe. Our projects range from TV productions and fictional series to innovative formats on social video platforms such as YouTube, Instagram, Twitch and TikTok. We develop social influencers and artists into cross-platform personality brands that are now found on social media, on TV, in podcasts, on the big screen or in the music charts. Our international team of 250 speaks all languages - from mainstream to subculture, from the Friday For Future movement to K-pop culture. Together, we offer our partners the fast-lane ticket to every community in Europe. Are you ready to shape the zeitgeist with us? Join the Movement!",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Berlin, Germany",
+            "job_city": "Berlin",
+            "job_state": null,
+            "job_country": "DE",
+            "job_latitude": 52.520006599999995,
+            "job_longitude": 13.404954,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyHdh69NZ9x6MGCNwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "0O2nacg_6Pc2_Z3FAAAAAA==",
+            "job_title": "AI Systems Engineer: Large Language Model Specialist",
+            "employer_name": "beBee Careers",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4ZDEoFbmqZaS3OX19CNS4F7Oe1s1V2FbPn3_&s=0",
+            "employer_website": "https://us.bebee.com",
             "job_publisher": "BeBee",
             "job_employment_type": "Full-time",
             "job_employment_types": [
                 "FULLTIME"
             ],
-            "job_apply_link": "https://us.bebee.com/job/a8792501eaf05ea8bb94eb442ff0d14d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_link": "https://de.bebee.com/job/f69628730045380453fe741c43901a37?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
             "job_apply_is_direct": false,
             "apply_options": [
                 {
                     "publisher": "BeBee",
-                    "apply_link": "https://us.bebee.com/job/a8792501eaf05ea8bb94eb442ff0d14d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Jobs Trabajo.org",
-                    "apply_link": "https://us.trabajo.org/job-2850-e294c6fbdef52795dbed8924fc5b615d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Joinu",
-                    "apply_link": "https://joinu.com/software-developers-jobs/washington-dc/nlp-engineer/327207470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "apply_link": "https://de.bebee.com/job/f69628730045380453fe741c43901a37?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
                 }
             ],
-            "job_description": "Job Title: NLP Engineer\nAbout the Role\n\nWe are seeking a highly skilled NLP Engineer to join our team at JobLeads-US. As an NLP Engineer, you will play a crucial role in designing and developing cutting-edge information retrieval systems that will shape the future of legal technology.\nKey Responsibilities\n\u2022 Design and implement advanced information retrieval systems using NLP techniques, embeddings, and vector databases to improve relevance and efficiency.\n\u2022 Assess requirements and choose appropriate technologies to develop scalable, maintainable search solutions.\n\u2022 Build reliable pipelines for processing PDFs, extracting text, named entities, and key information.\n\u2022 Configure search engines, develop search APIs, and integrate vector databases to enhance similarity scoring.\n\u2022 Fine-tune and optimize NLP models to improve search precision and relevance.\n\u2022 Create and maintain APIs for smooth communication between application components.\n\u2022 Identify and resolve system bottlenecks to improve retrieval speed and accuracy.\nRequirements\n\u2022 At least 5 years of experience in NLP, information retrieval, and search technologies (e.g. Elasticsearch, OpenSearch, FAISS, Pinecone).\n\u2022 Expertise in vector-based search, embeddings, and similarity scoring techniques.\n\u2022 Practical experience with PDF processing, text extraction, and named entity recognition (NER).\n\u2022 Proficiency in deep learning frameworks (TensorFlow, PyTorch) and NLP libraries (Hugging Face, spaCy, NLTK).\n\u2022 Experience in developing and maintaining scalable APIs (REST, GraphQL, gRPC).\n\u2022 Strong Python skills with familiarity in cloud platforms such as AWS, GCP, or Azure.\n\u2022 Proven track record of optimizing system performance and managing large-scale search workloads.\n\u2022 Knowledge of knowledge graphs, ontologies, or semantic search is a plus.",
+            "job_description": "We are seeking a talented AI Engineer to join our growing Data Science team.\n\nThis role will involve developing and implementing advanced AI systems, working with large language models, and collaborating with cross-functional teams to drive innovation and growth.\n\nThe ideal candidate will have a strong background in data science, NLP, and programming, with experience in deploying and monitoring machine learning systems in production.\n\nAdditionally, they will possess excellent communication skills, a passion for knowledge sharing and mentoring, and the ability to work effectively in a fast-paced environment.\nAbout the Role\n\u2022 Develop and implement advanced AI systems using large language models\n\u2022 Collaborate with cross-functional teams to drive innovation and growth\n\u2022 Work on exciting projects and opportunities to experiment\n\u2022 Deploy and monitor machine learning systems in production\n\nBonus skills include experience in healthcare or nutrition, German language skills, and expertise in MLOps and GitOps workflows.\nRequirements\n\u2022 2\u20133 years industry experience\n\u2022 Advanced knowledge in data science, information retrieval & extraction, natural language processing (NLP)\n\u2022 Experience building, training, testing, evaluating (scoring) large language model (LLM) solutions\n\u2022 Advanced understanding of a programming language (preferably Python)\n\u2022 Good basic knowledge in data structures & algorithms\n\u2022 Good communication skills in English\n\nWe offer a competitive salary, healthy work-life balance, personal growth and further training, and an international and diverse team.\n\nIf you think you have what it takes to fulfill this role but don't necessarily fit every single point of the job description, please get in touch anyway. We'd love to talk to you and find out if you're a good fit.",
             "job_is_remote": false,
-            "job_posted_at": "10 hours ago",
-            "job_posted_at_timestamp": 1750028400,
-            "job_posted_at_datetime_utc": "2025-06-15T23:00:00.000Z",
-            "job_location": "Washington, DC",
-            "job_city": "Washington",
-            "job_state": "District of Columbia",
-            "job_country": "US",
-            "job_latitude": 38.9071923,
-            "job_longitude": -77.0368707,
+            "job_posted_at": "5 days ago",
+            "job_posted_at_timestamp": 1749600000,
+            "job_posted_at_datetime_utc": "2025-06-11T00:00:00.000Z",
+            "job_location": "Berlin, Germany",
+            "job_city": "Berlin",
+            "job_state": null,
+            "job_country": "DE",
+            "job_latitude": 52.520006599999995,
+            "job_longitude": 13.404954,
             "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSdpAHE9YBbRV9tJBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0O2nacg_6Pc2_Z3FAAAAAA%3D%3D&vssid=jobs-detail-viewer",
             "job_salary": null,
             "job_min_salary": null,
             "job_max_salary": null,
             "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "At least 5 years of experience in NLP, information retrieval, and search technologies (e.g. Elasticsearch, OpenSearch, FAISS, Pinecone)",
-                    "Expertise in vector-based search, embeddings, and similarity scoring techniques",
-                    "Practical experience with PDF processing, text extraction, and named entity recognition (NER)",
-                    "Proficiency in deep learning frameworks (TensorFlow, PyTorch) and NLP libraries (Hugging Face, spaCy, NLTK)",
-                    "Experience in developing and maintaining scalable APIs (REST, GraphQL, gRPC)",
-                    "Strong Python skills with familiarity in cloud platforms such as AWS, GCP, or Azure",
-                    "Proven track record of optimizing system performance and managing large-scale search workloads"
-                ],
-                "Responsibilities": [
-                    "As an NLP Engineer, you will play a crucial role in designing and developing cutting-edge information retrieval systems that will shape the future of legal technology",
-                    "Design and implement advanced information retrieval systems using NLP techniques, embeddings, and vector databases to improve relevance and efficiency",
-                    "Assess requirements and choose appropriate technologies to develop scalable, maintainable search solutions",
-                    "Build reliable pipelines for processing PDFs, extracting text, named entities, and key information",
-                    "Configure search engines, develop search APIs, and integrate vector databases to enhance similarity scoring",
-                    "Fine-tune and optimize NLP models to improve search precision and relevance",
-                    "Create and maintain APIs for smooth communication between application components",
-                    "Identify and resolve system bottlenecks to improve retrieval speed and accuracy"
-                ]
-            },
+            "job_highlights": {},
             "job_onet_soc": "15111100",
             "job_onet_job_zone": "5"
         },
         {
-            "job_id": "q6rqDBIOnPAT4350AAAAAA==",
-            "job_title": "NLP Analyst",
-            "employer_name": "Capgemini",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BSMIt7m2uiId_3142LNElhU-kvf9h48rIEOM&s=0",
-            "employer_website": "http://www.capgemini.com/",
-            "job_publisher": "Jobs Trabajo.org",
+            "job_id": "CK97fvLaRHyR75DDAAAAAA==",
+            "job_title": "Machine Learning Expert - Text Generation",
+            "employer_name": "beBee Careers",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4ZDEoFbmqZaS3OX19CNS4F7Oe1s1V2FbPn3_&s=0",
+            "employer_website": "https://us.bebee.com",
+            "job_publisher": "BeBee",
             "job_employment_type": "Full-time",
             "job_employment_types": [
                 "FULLTIME"
             ],
-            "job_apply_link": "https://us.trabajo.org/job-2850-6c87b4040bd6da0cb8039adda6d649b7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_link": "https://de.bebee.com/job/15add516e3f71879b360e7a74f472c36?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
             "job_apply_is_direct": false,
             "apply_options": [
                 {
-                    "publisher": "Jobs Trabajo.org",
-                    "apply_link": "https://us.trabajo.org/job-2850-6c87b4040bd6da0cb8039adda6d649b7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "publisher": "BeBee",
+                    "apply_link": "https://de.bebee.com/job/15add516e3f71879b360e7a74f472c36?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
                 }
             ],
-            "job_description": "Select how often (in days) to receive an alert:\nNLP Analyst - Conversational Designer/ Speech Scientist Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you'd like, where you'll be supported and inspired by a collaborative community of colleagues around the world, and where you'll be able to reimagine what's possible. Join us and help the world's leading organizations unlock the value of technology and build a more sustainable, more inclusive world.\nLocation - New York, NY Job Description We are seeking a talented Software Engineer with experience in Natural Language Processing (NLP) to join our team. The focus of this role is to enhance the accuracy and functionality of our systems for interpreting spoken words and phrases, enabling more natural and efficient customer interactions.\nKey Responsibilities:\nImprove the accuracy of system interpretations for spoken words and webchat interactions.\nCollect and curate large datasets of voice samples to train speech recognition models, ensuring recognition across various accents, dialects, and speech patterns.\nImplement advanced NLP techniques to enable complex interactions with callers.\nTest Interactive Voice Response (IVR) systems and webchat interfaces for performance and identify areas for improvement.\nAddress issues such as false positives and misinterpretations in speech recognition.\nStudy customer interactions to understand common errors and adapt models accordingly.\nDevelop and optimize grammar rules, syntax, and semantics for language models.\nWork closely with stakeholders to explain technical concepts in an understandable manner.\nCollaborate with cross-functional teams to ensure project alignment with business goals.\nRequired Skills:\nProficiency in programming languages for speech recognition system development.\nExperience with Linux and Windows environments.\nExperience with Nuance Recognizer, Nuance Dragon Voice, Nuance SpeechSuite, or similar NLU (Natural Language Understanding) platforms.\nAbility to manage and modify NLU performance patterns.\nStrong ability to assess large datasets of speech data to identify patterns and improve model accuracy.\nClear ability to explain complex technical concepts to non-technical stakeholders.\nLife at Capgemini Capgemini supports all aspects of your well-being throughout the changing stages of your life and career. For eligible employees, we offer:\nHealthcare including dental, vision, mental health, and well-being programs\nFinancial well-being programs such as 401(k) and Employee Share Ownership Plan\nPaid time off and paid holidays\nPaid parental leave\nFamily building benefits like adoption assistance, surrogacy, and cryopreservation\nSocial well-being benefits like subsidized back-up child/elder care and tutoring\nMentoring, coaching and learning programs\nEmployee Resource Groups\nDisaster Relief\nDisclaimer:\nCapgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.\nCapgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.\nSalary Transparency Capgemini discloses salary range information in compliance with state and local pay transparency obligations. The base salary range for the tagged location is $100,000 - $130,000 /year.\nThis role may be eligible for other compensation including variable compensation, bonus, or commission. Full time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees.\nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society.\nRef. code: 150743\nPosted on: Jan 17, 2025\nExperience Level: Experienced Professionals\nContract Type: Permanent\nLocation:\nNew York, US\nBrand: Capgemini\nProfessional Community: Software Engineering\n\n#J-18808-Ljbffr",
+            "job_description": "Unlock the Power of AI\n\nWe are seeking a skilled Machine Learning Engineer to join our team. As a key member, you will play a central role in defining and building our ML platform, enabling cutting-edge AI agents that excel at discovering and organizing knowledge.\n\nYour primary focus will be on building text-based generative AI applications end-to-end with a strong emphasis on benchmarking and experimentation with models, prompts, and system design. Additionally, you will have ample opportunities to dive deeper into topics such as synthetic data generation, model distillation, training embedding models for retrieval, etc.\n\nTo succeed in this role, you must possess a strong track record working on applied ML, preferably with experience in the life sciences. Your work will help lay the foundation for a new way of working with data, and we encourage you to apply if you are passionate about applying AI to real-world problems and thrive in a fast-paced environment.\n\nThe ideal candidate will have a Master's degree in Computer Science, Physics, Mathematics, Engineering, or a similar quantitative field, or equivalent practical experience. A proven experience in implementing practical ML algorithms and scaling them to millions of datapoints is also essential. You should be familiar with at least one ML framework such as PyTorch, JAX, TensorFlow, or similar, and have 3+ years of experience developing in Python.\n\nWe offer a competitive salary tailored to your experience and role level, equity stock options, generous paid time off, on-site work arrangements with flexibility, learning and development budget, and regular team retreats. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.\n\nSome of the skills and qualifications we look for include:\n\u2022 A Master's degree in Computer Science, Physics, Mathematics, Engineering, or a similar quantitative field \u2014 or equivalent practical experience.\n\u2022 Proven experience implementing practical ML algorithms and scaling them to millions of datapoints.\n\u2022 3+ years of experience developing in Python.\n\u2022 Familiarity with at least one ML framework such as PyTorch, JAX, TensorFlow, or similar.\n\u2022 Bonus: Experience applying AI to the life sciences or related fields.",
             "job_is_remote": false,
-            "job_posted_at": "20 hours ago",
-            "job_posted_at_timestamp": 1749992400,
-            "job_posted_at_datetime_utc": "2025-06-15T13:00:00.000Z",
-            "job_location": "New York, NY",
-            "job_city": "New York",
-            "job_state": "New York",
-            "job_country": "US",
-            "job_latitude": 40.7127753,
-            "job_longitude": -74.0059728,
-            "job_benefits": [
-                "health_insurance",
-                "paid_time_off",
-                "dental_coverage"
-            ],
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dq6rqDBIOnPAT4350AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_posted_at": "10 days ago",
+            "job_posted_at_timestamp": 1749168000,
+            "job_posted_at_datetime_utc": "2025-06-06T00:00:00.000Z",
+            "job_location": "Berlin, Germany",
+            "job_city": "Berlin",
+            "job_state": null,
+            "job_country": "DE",
+            "job_latitude": 52.520006599999995,
+            "job_longitude": 13.404954,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCK97fvLaRHyR75DDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
             "job_salary": null,
             "job_min_salary": null,
             "job_max_salary": null,
             "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Proficiency in programming languages for speech recognition system development",
-                    "Experience with Linux and Windows environments",
-                    "Experience with Nuance Recognizer, Nuance Dragon Voice, Nuance SpeechSuite, or similar NLU (Natural Language Understanding) platforms",
-                    "Ability to manage and modify NLU performance patterns",
-                    "Strong ability to assess large datasets of speech data to identify patterns and improve model accuracy",
-                    "Clear ability to explain complex technical concepts to non-technical stakeholders"
-                ],
-                "Benefits": [
-                    "Life at Capgemini Capgemini supports all aspects of your well-being throughout the changing stages of your life and career",
-                    "Healthcare including dental, vision, mental health, and well-being programs",
-                    "Financial well-being programs such as 401(k) and Employee Share Ownership Plan",
-                    "Paid time off and paid holidays",
-                    "Paid parental leave",
-                    "Family building benefits like adoption assistance, surrogacy, and cryopreservation",
-                    "Social well-being benefits like subsidized back-up child/elder care and tutoring",
-                    "Mentoring, coaching and learning programs",
-                    "The base salary range for the tagged location is $100,000 - $130,000 /year",
-                    "This role may be eligible for other compensation including variable compensation, bonus, or commission",
-                    "Full time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees"
-                ],
-                "Responsibilities": [
-                    "The focus of this role is to enhance the accuracy and functionality of our systems for interpreting spoken words and phrases, enabling more natural and efficient customer interactions",
-                    "Improve the accuracy of system interpretations for spoken words and webchat interactions",
-                    "Collect and curate large datasets of voice samples to train speech recognition models, ensuring recognition across various accents, dialects, and speech patterns",
-                    "Implement advanced NLP techniques to enable complex interactions with callers",
-                    "Test Interactive Voice Response (IVR) systems and webchat interfaces for performance and identify areas for improvement",
-                    "Address issues such as false positives and misinterpretations in speech recognition",
-                    "Study customer interactions to understand common errors and adapt models accordingly",
-                    "Develop and optimize grammar rules, syntax, and semantics for language models",
-                    "Work closely with stakeholders to explain technical concepts in an understandable manner",
-                    "Collaborate with cross-functional teams to ensure project alignment with business goals"
-                ]
-            },
+            "job_highlights": {},
             "job_onet_soc": "15111100",
             "job_onet_job_zone": "5"
         }

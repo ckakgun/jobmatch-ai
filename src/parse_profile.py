@@ -86,11 +86,3 @@ def parse_profile(text):
             skills.append(line_clean)   
     profile['skills'] = skills
     return profile
-
-if __name__ == "__main__":
-    text = extract_text_from_pdf(path)
-    profile = parse_profile(text)
-
-    # Save to JSON
-    with open("data/ceren_linkedin_profile.json", "w") as f:
-        json.dump(profile, f, indent=4)
