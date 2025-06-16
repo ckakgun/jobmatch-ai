@@ -1,5 +1,5 @@
 pymupdf
 requests
 python-dotenv
-
+scikit-learn    
 

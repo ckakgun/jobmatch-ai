@@ -26,6 +26,10 @@ if __name__ == "__main__":
     ]
     print(f"📍 {len(filtered_jobs)} jobs in Berlin, Germany after filtering")
 
+    if not filtered_jobs:
+        print("No jobs found in Berlin, Germany after filtering.")
+        exit()
+
     job_postings = filtered_jobs
 
     # 3. Match
@@ -37,5 +41,5 @@ if __name__ == "__main__":
         print(f"Title: {job['job_title']}")
         print(f"Company: {job.get('employer_name', 'N/A')}")
         print(f"Location: {job.get('job_city', 'N/A')}")
-        print(f"Description: {job['job_description'][:300]}...")
-        print(f"Apply Link: {job['job_apply_link']}")
+        print(f"Description: {job.get('job_description', 'N/A')[:300]}...")
+        print(f"Apply Link: {job.get('job_apply_link', 'N/A')}")
