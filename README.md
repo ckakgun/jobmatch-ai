@@ -1,5 +1,3 @@
-# jobmatch-ai
-
 ## Project Name and Purpose
 JobMatch AI – An intelligent tool to find jobs that match your LinkedIn profile using NLP.
 
