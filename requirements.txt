@@ -1,7 +1,9 @@
 pymupdf
 requests
 python-dotenv
-scikit-learn    
+scikit-learn
 sentence-transformers
 spacy
-en_core_web_sm 
+en_core_web_sm
+openai
+groq
