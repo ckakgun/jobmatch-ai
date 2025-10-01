@@ -3,18 +3,22 @@ from match_jobs import match_profile_to_jobs
 from job_search import query_and_save_jobs
 import json
 
+path = "data/linkedin_profile.pdf"
+profile_path = "data/linkedin_profile.json"
+job_postings_path = "data/job_postings.json"
+
 if __name__ == "__main__":
     # 1. Extract & parse profile
-    text = extract_text_from_pdf("data/linkedin_profile.pdf")
+    text = extract_text_from_pdf(path)
     profile = parse_profile(text)
     
-    with open("data/linkedin_profile.json", "w") as f:
+    with open(profile_path, "w") as f:
         json.dump(profile, f, indent=4)
 
     # 2. Fetch jobs and load from file
     query_and_save_jobs(query="berlin nlp data scientist ")
 
-    with open("data/job_postings.json") as f:
+    with open(job_postings_path) as f:
         job_data = json.load(f)
     job_postings = job_data.get("data", [])
 
@@ -32,12 +36,7 @@ if __name__ == "__main__":
     job_postings = filtered_jobs
 
     # 3. Match
-    job_terms_list = [
-        job.get('job_title', '') + ' ' + job.get('job_description', '')
-        for job in job_postings
-    ]
-
-    top_matches = match_profile_to_jobs(profile, job_postings, job_terms_list, top_n=3)
+    top_matches = match_profile_to_jobs(profile, job_postings, top_n=3)
 
     # 4. Display
     for i, job in enumerate(top_matches, 1):

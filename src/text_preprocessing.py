@@ -1,10 +1,13 @@
-import spacy
-nlp = spacy.load("en_core_web_sm")
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 def lemmatize_text(text):
     '''
-    Lemmatize a text string using spaCy.
+    Lemmatize text string using langchain_text_splitters.
     Returns a string of lemmatized tokens.
     '''
-    doc = nlp(text.lower())
-    return ' '.join([token.lemma_ for token in doc if not token.is_punct and not token.is_stop])
+    text_splitter = RecursiveCharacterTextSplitter(
+    chunk_size=1000,
+    chunk_overlap=200)
+    text = text.lower()
+    chunks = text_splitter.split_text(text)
+    return chunks
