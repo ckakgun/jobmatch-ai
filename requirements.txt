@@ -1,9 +1,9 @@
 requests
 python-dotenv
 scikit-learn
-sentence-transformers
 spacy
 openai
 langchain
 langchain-openai
 langchain-community
+langchain-huggingface
