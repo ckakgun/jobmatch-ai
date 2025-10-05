@@ -1,4 +1,3 @@
-import os
 import json
 
 from langchain_community.document_loaders import PyMuPDFLoader
@@ -10,8 +9,8 @@ def extract_text_from_pdf(path):
     Extract linkedin profile text from a pdf file
     '''
     loader = PyMuPDFLoader(path)
-    docs =loader.load()
-    text= docs[0].page_content  
+    docs = loader.load()
+    text = docs[0].page_content  
     return text
 
 
