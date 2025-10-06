@@ -199,6 +199,7 @@ data/job_postings.json
 data/linkedin_profile.json
 data/temp_*.pdf
 data/temp_*.json
+TEST_RESULTS.md
 
 # macOS
 .DS_Store
