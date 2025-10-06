@@ -8,7 +8,7 @@
             "job_description": "Your impact: Build innovative AI systems that solve real-world business challenges. This includes working with traditional ML frameworks like HuggingFace and PyTorch, as well as innovative Generative AI models and frameworks (agents, RAG, MCP, \u2026). Design and implement end-to-end solutions,from data and software engineering tasks to sophisticated AI components. Engineer agentic systems and complex workflows using advanced prompt engineering techniques. Deploy production-ready applications on all\u2026",
             "job_city": "Deutschland",
             "job_country": "DE",
-            "job_apply_link": "https://www.adzuna.de/land/ad/5423074381?se=gN-_MR-i8BGUfoi19gktkw&utm_medium=api&utm_source=2856d89e&v=B002098B1DA2F6249E25136A96AA52AF3686AACB",
+            "job_apply_link": "https://www.adzuna.de/land/ad/5423074381?se=JAesi4Wi8BGjLJzS3_HUQA&utm_medium=api&utm_source=2856d89e&v=B002098B1DA2F6249E25136A96AA52AF3686AACB",
             "job_employment_type": "Full-time",
             "job_publisher": "Adzuna"
         },
@@ -19,7 +19,7 @@
             "job_description": "About the opportunity At N26, we are building the foundational capabilities that empower product teams and data scientists to integrate AI at scale. As part of the Platform Engineering domain, the AI Platform team is responsible for designing, building, and operating the infrastructure and tooling that make AI use cases scalable, reliable, and easy to adopt, across both Machine Learning and Generative AI domains. We are looking for a Senior Machine Learning Engineer with strong software enginee\u2026",
             "job_city": "Deutschland",
             "job_country": "DE",
-            "job_apply_link": "https://www.adzuna.de/land/ad/5427379088?se=gN-_MR-i8BGUfoi19gktkw&utm_medium=api&utm_source=2856d89e&v=4D8A18F7E4F14C5F4E687AFCFCCEF583F33343B6",
+            "job_apply_link": "https://www.adzuna.de/land/ad/5427379088?se=JAesi4Wi8BGjLJzS3_HUQA&utm_medium=api&utm_source=2856d89e&v=4D8A18F7E4F14C5F4E687AFCFCCEF583F33343B6",
             "job_employment_type": "Full-time",
             "job_publisher": "Adzuna"
         },
@@ -30,7 +30,7 @@
             "job_description": "At The Stepstone Group, we have a simple yet very important mission: The right job for everyone. Using our data, platform, and technology, we create opportunities for jobseekers and companies around the world to find a perfect match in fair and equitable way. With over 20 brands across 30 countries, we strive for fair and unbiased hiring. Join our team of 4,000 employees and be part of reshaping the labour market and becoming the world's leading job platform. Aufgaben As a Senior Big Data Engin\u2026",
             "job_city": "Deutschland",
             "job_country": "DE",
-            "job_apply_link": "https://www.adzuna.de/land/ad/5427382320?se=gN-_MR-i8BGUfoi19gktkw&utm_medium=api&utm_source=2856d89e&v=3DFE38B83560356CC5E092C711D149FA816BADFD",
+            "job_apply_link": "https://www.adzuna.de/land/ad/5427382320?se=JAesi4Wi8BGjLJzS3_HUQA&utm_medium=api&utm_source=2856d89e&v=3DFE38B83560356CC5E092C711D149FA816BADFD",
             "job_employment_type": "Full-time",
             "job_publisher": "Adzuna"
         },
@@ -240,17 +240,6 @@
             "job_city": "Deutschland",
             "job_country": "DE",
             "job_apply_link": "https://www.adzuna.de/details/5416745717?utm_medium=api&utm_source=2856d89e",
-            "job_employment_type": "Full-time",
-            "job_publisher": "Adzuna"
-        },
-        {
-            "job_id": "5432191298",
-            "job_title": "Senior AI Engineer (m/f/d) - Berlin",
-            "employer_name": "Riverty Group GmbH",
-            "job_description": "Salary: 60.000 - 90.000 \u20ac per year Requirements: We seek candidates with a degree in Computer Science, Business Informatics, or a related field; a business/innovation background is a plus. You should have 5\u20137 years of professional experience in AI/ML engineering or solution architecture. Proven expertise in Python and AI/LLM frameworks (e.g., LangChain, PyTorch, TensorFlow) is essential. A strong knowledge of external AI models and services (OpenAI, Vertex, Claude, etc.) is required. You should\u2026",
-            "job_city": "Deutschland",
-            "job_country": "DE",
-            "job_apply_link": "https://www.adzuna.de/details/5432191298?utm_medium=api&utm_source=2856d89e",
             "job_employment_type": "Full-time",
             "job_publisher": "Adzuna"
         },
@@ -525,7 +514,7 @@
             "job_description": "You have a passion for technology and want to make the world a greener place? Join the forefront of energy transition with E.ON's Digital Technology organization, as part of our technology in-house consulting, Expert Services. As a professional services organization, we collaborate closely with our business units, providing pivotal services that accelerate E.ON's ambitious Digital Transformation strategy. If you have a passion for leading the green transition with digital innovation, become a p\u2026",
             "job_city": "Deutschland",
             "job_country": "DE",
-            "job_apply_link": "https://www.adzuna.de/land/ad/5406928006?se=gN-_MR-i8BGUfoi19gktkw&utm_medium=api&utm_source=2856d89e&v=BC618F5967A721FBC3D7FF4CF0D990DA30A1BF17",
+            "job_apply_link": "https://www.adzuna.de/land/ad/5406928006?se=JAesi4Wi8BGjLJzS3_HUQA&utm_medium=api&utm_source=2856d89e&v=BC618F5967A721FBC3D7FF4CF0D990DA30A1BF17",
             "job_employment_type": "Full-time",
             "job_publisher": "Adzuna"
         },
@@ -548,6 +537,17 @@
             "job_city": "Deutschland",
             "job_country": "DE",
             "job_apply_link": "https://www.adzuna.de/details/5398139455?utm_medium=api&utm_source=2856d89e",
+            "job_employment_type": "Full-time",
+            "job_publisher": "Adzuna"
+        },
+        {
+            "job_id": "5385246165",
+            "job_title": "Senior AI Security Engineer (m,f,x)",
+            "employer_name": "Alumni Network",
+            "job_description": "The role We\u2019re looking for a new teammate to join us on the journey of keeping HelloFresh a trusted name as the business goes through AI transformation across all verticals. The person in this role will lead the security of our AI stack end\u2011to\u2011end and make it safe to build boldly. They\u2019ll map real attack paths across data, training, inference, agents, and RAG; turn them into guardrails and launch gates; and enable product teams to ship faster with confidence. Their work protects customer trust,\u2026",
+            "job_city": "Deutschland",
+            "job_country": "DE",
+            "job_apply_link": "https://www.adzuna.de/details/5385246165?utm_medium=api&utm_source=2856d89e",
             "job_employment_type": "Full-time",
             "job_publisher": "Adzuna"
         }
