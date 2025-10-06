@@ -194,11 +194,9 @@ cython_debug/
 .cursorindexingignore
 .cursor/
 
-# Project specific
-data/job_postings.json
-data/linkedin_profile.json
-data/temp_*.pdf
-data/temp_*.json
+# Project specific - Ignore all data files (PDFs, JSONs)
+data/*.pdf
+data/*.json
 
 # macOS
 .DS_Store
