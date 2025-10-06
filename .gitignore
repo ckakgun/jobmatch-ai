@@ -192,4 +192,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+.cursor/
+
+# Project specific
+data/job_postings.json
+data/linkedin_profile.json
+data/temp_*.pdf
+data/temp_*.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
 
