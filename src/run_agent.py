@@ -1,4 +1,5 @@
 import argparse
+import json
 from pathlib import Path
 import sys
 sys.path.append(str(Path(__file__).parent))
@@ -26,7 +27,7 @@ Examples:
     )
     
     # Profile input
-    profile_group = parser.add_mutually_exclusive_group(required=True)
+    profile_group = parser.add_mutually_exclusive_group(required=False)
     profile_group.add_argument('--pdf', type=str, help='Path to PDF profile')
     profile_group.add_argument('--json', type=str, help='Path to JSON profile')
     
@@ -54,9 +55,15 @@ Examples:
     if args.pdf:
         profile_source = "pdf"
         profile_path = args.pdf
-    else:
+    elif args.json:
         profile_source = "json"
         profile_path = args.json
+    else:
+        default_profile = Path('data/profile.pdf')
+        if not default_profile.exists():
+            parser.error("No profile provided and default data/profile.pdf not found")
+        profile_source = "pdf"
+        profile_path = str(default_profile)
     
     print(f"📋 Profile: {profile_path}")
     print(f"🔍 Query: {args.query}")
@@ -78,7 +85,14 @@ Examples:
     # Display results
     agent.display_results(results)
 
+    if profile_source == "pdf" and isinstance(results, dict) and "profile" in results:
+        output_path = Path('data/linkedin_profile.json')
+        try:
+            output_path.write_text(json.dumps(results["profile"], ensure_ascii=False, indent=2), encoding='utf-8')
+            print(f"\n💾 Saved parsed profile to {output_path}")
+        except Exception as exc:
+            print(f"\n⚠️ Unable to save parsed profile: {exc}")
+
 
 if __name__ == "__main__":
     main()
-
